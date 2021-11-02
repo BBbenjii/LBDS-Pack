@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "variants": {
+        "": [
+            { "model": "block/tentacula", "weight": 25 },
+            { "model": "block/tentacula", "weight": 25 },
+            { "model": "block/tentacula2", "weight": 25 },
+            { "model": "block/tentacula2", "weight": 25 }
+        ]
+    }
+}

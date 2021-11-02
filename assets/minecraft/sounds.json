@@ -1,0 +1,164 @@
+{
+    "alohomora": {
+        "sounds": [
+            "spells/alohomora"
+        ],
+        "category": "player"
+    },
+    "confringo": {
+        "sounds": [
+            "spells/confringo"
+        ],
+        "category": "player"
+    },
+    "incendio": {
+        "sounds": [
+            "spells/incendio"
+        ],
+        "category": "player"
+    },
+    "pagetournee": {
+        "sounds": [
+            "spells/pagetournee"
+        ],
+        "category": "player"
+    },
+    "protego": {
+        "sounds": [
+            "spells/protego1"
+        ],
+        "category": "player"
+    },
+    "sort": {
+        "sounds": [
+            "spells/sort"
+        ],
+        "category": "player"
+    },
+    "stupefix1": {
+        "sounds": [
+            "spells/stupefix1"
+        ],
+        "category": "player"
+    },
+    "stupefix2": {
+        "sounds": [
+            "spells/stupefix2"
+        ],
+        "category": "player"
+    },
+    "stupefix3": {
+        "sounds": [
+            "spells/stupefix3"
+        ],
+        "category": "player"
+    },
+    "stupefix4": {
+        "sounds": [
+            "spells/stupefix4"
+        ],
+        "category": "player"
+    },
+    "transplane1": {
+        "sounds": [
+            "magie/transplane1"
+        ],
+        "category": "player"
+    },
+    "transplane2": {
+        "sounds": [
+            "magie/transplane2"
+        ],
+        "category": "player"
+    },
+    "transplane3": {
+        "sounds": [
+            "magie/transplane3"
+        ],
+        "category": "player"
+    },
+	    "transplane4": {
+        "sounds": [
+            "magie/transplane4"
+        ],
+        "category": "player"
+    },
+	    "transplane5": {
+        "sounds": [
+            "magie/transplane5"
+        ],
+        "category": "player"
+	},	
+	    "werewolf": {
+        "sounds": [
+            "magie/werewolf"
+        ],
+        "category": "player"
+    },
+		"owl": {
+		"sounds": [
+			"random/owl"
+		],
+		"category": "player"
+	},
+		    "archives": {
+        "sounds": [
+            "ministere/archives"
+        ],
+        "category": "player"
+    },
+			    "bureaucratie": {
+        "sounds": [
+            "ministere/bureaucratie"
+        ],
+        "category": "player"
+    },
+			    "catam": {
+        "sounds": [
+            "ministere/catam"
+        ],
+        "category": "player"
+    },
+			    "coop": {
+        "sounds": [
+            "ministere/coop"
+        ],
+        "category": "player"
+    },
+			    "creatures": {
+        "sounds": [
+            "ministere/creatures"
+        ],
+        "category": "player"
+    },
+			    "jeuxmagiques": {
+        "sounds": [
+            "ministere/jeuxmagiques"
+        ],
+        "category": "player"
+    },
+			    "justicemagique": {
+        "sounds": [
+            "ministere/justicemagique"
+        ],
+        "category": "player"
+    },
+			    "mysteres": {
+        "sounds": [
+            "ministere/mysteres"
+        ],
+        "category": "player"
+    },
+			    "transports": {
+        "sounds": [
+            "ministere/transports"
+        ],
+        "category": "player"
+    },
+				"atrium": {
+        "sounds": [
+            "ministere/atrium"
+        ],
+        "category": "player"
+    }
+}

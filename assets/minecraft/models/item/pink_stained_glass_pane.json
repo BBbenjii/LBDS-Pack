@@ -1,0 +1,7 @@
+{
+  "__comment": "© Droobledore LLC",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "block/chain_pane"
+  }
+}

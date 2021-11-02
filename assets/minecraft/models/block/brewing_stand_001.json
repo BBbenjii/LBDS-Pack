@@ -1,0 +1,79 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "item/daylight_detector_inverted_top",
+		"texture": "item/daylight_detector_inverted_top",
+		"alchemykit": "block/alchemykit",
+		"feather_anim2": "item/feather_anim2"
+	},
+	"elements": [
+		{
+			"from": [3, 0.1875, 4],
+			"to": [13, 0.25, 12],
+			"faces": {
+				"up": {"uv": [0, 9.5, 16, 15], "texture": "#texture"},
+				"down": {"uv": [16, 15, 0, 9.5], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [13, 0.1875, 4],
+			"to": [14, 0.25, 12],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [13, 0.25, 4]},
+			"faces": {
+				"up": {"uv": [14, 9.5, 16, 15], "texture": "#texture"},
+				"down": {"uv": [14, 15, 16, 9.5], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [2.125, 0.5625, 4],
+			"to": [3.125, 0.625, 12],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [2.125, 0.625, 4]},
+			"faces": {
+				"up": {"uv": [2.5, 9.5, 0, 15], "texture": "#texture"},
+				"down": {"uv": [0, 15, 2.5, 9.5], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6, 0.0625, 5.5],
+			"to": [16, 0.125, 12.5],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6, 0.0625, 5.5]},
+			"faces": {
+				"up": {"uv": [0, 15, 16, 9.5], "texture": "#texture"},
+				"down": {"uv": [16, 9.5, 0, 15], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [13, 0, 1],
+			"to": [15, 2, 3],
+			"faces": {
+				"north": {"uv": [5, 8, 9, 12], "texture": "#alchemykit"},
+				"east": {"uv": [6, 8, 10, 12], "texture": "#alchemykit"},
+				"south": {"uv": [8, 8, 12, 12], "texture": "#alchemykit"},
+				"west": {"uv": [6, 8, 9.5, 12], "texture": "#alchemykit"},
+				"up": {"uv": [8, 4, 12, 8], "texture": "#alchemykit"},
+				"down": {"uv": [6.5, 8, 10.5, 12], "texture": "#alchemykit"}
+			}
+		},
+		{
+			"from": [13.5, 2, 1.5],
+			"to": [14.5, 2.5, 2.5],
+			"faces": {
+				"north": {"uv": [5, 8, 9, 10], "texture": "#alchemykit"},
+				"east": {"uv": [6, 8, 10, 10], "texture": "#alchemykit"},
+				"south": {"uv": [8, 8, 12, 10], "texture": "#alchemykit"},
+				"west": {"uv": [6, 8, 9.5, 10], "texture": "#alchemykit"},
+				"up": {"uv": [8, 4, 12, 6], "texture": "#alchemykit"},
+				"down": {"uv": [6.5, 8, 10.5, 10], "texture": "#alchemykit"}
+			}
+		},
+		{
+			"from": [-3, -1, 13],
+			"to": [13, 15, 13.0625],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [-3, 15, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#feather_anim2"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#feather_anim2"}
+			}
+		}
+	]
+}

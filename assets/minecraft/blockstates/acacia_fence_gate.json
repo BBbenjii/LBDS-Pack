@@ -1,0 +1,21 @@
+{
+    "__comment": "JimStoneCraft - 2016",
+    "variants": {
+        "facing=south,in_wall=false,open=false": { "model": "block/block_wandbox", "uvlock": false, "y": 0 },
+        "facing=west,in_wall=false,open=false":  { "model": "block/block_wandbox", "uvlock": false, "y": 90 },
+        "facing=north,in_wall=false,open=false": { "model": "block/block_wandbox", "uvlock": false, "y": 180 },
+        "facing=east,in_wall=false,open=false":  { "model": "block/block_wandbox", "uvlock": false, "y": 270 },
+        "facing=south,in_wall=false,open=true": { "model": "block/block_wandbox_less", "uvlock": false, "y": 0 },
+        "facing=west,in_wall=false,open=true":  { "model": "block/block_wandbox_less", "uvlock": false, "y": 90 },
+        "facing=north,in_wall=false,open=true": { "model": "block/block_wandbox_less", "uvlock": false, "y": 180 },
+        "facing=east,in_wall=false,open=true":  { "model": "block/block_wandbox_less", "uvlock": false, "y": 270 },
+        "facing=south,in_wall=true,open=false": { "model": "block/block_wandbox", "uvlock": false, "y": 0 },
+        "facing=west,in_wall=true,open=false":  { "model": "block/block_wandbox", "uvlock": false, "y": 90 },
+        "facing=north,in_wall=true,open=false": { "model": "block/block_wandbox", "uvlock": false, "y": 180 },
+        "facing=east,in_wall=true,open=false":  { "model": "block/block_wandbox", "uvlock": false, "y": 270 },
+        "facing=south,in_wall=true,open=true": { "model": "block/block_wandbox_less", "uvlock": false, "y": 0 },
+        "facing=west,in_wall=true,open=true":  { "model": "block/block_wandbox_less", "uvlock": false, "y": 90 },
+        "facing=north,in_wall=true,open=true": { "model": "block/block_wandbox_less", "uvlock": false, "y": 180 },
+        "facing=east,in_wall=true,open=true":  { "model": "block/block_wandbox_less", "uvlock": false, "y": 270 }
+    }
+}

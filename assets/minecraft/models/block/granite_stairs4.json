@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "block/granite4",
+        "top": "block/granite4",
+        "side": "block/granite4"
+    }
+}

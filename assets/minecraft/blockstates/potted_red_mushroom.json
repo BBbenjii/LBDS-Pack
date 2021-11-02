@@ -1,0 +1,8 @@
+{
+  "comment": "Split off from flower_pot",
+  "variants": {
+    "": {
+      "model": "block/flower_pot_mushroom_red"
+    }
+  }
+}

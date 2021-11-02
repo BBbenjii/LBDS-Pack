@@ -1,0 +1,111 @@
+{
+    "variants": {
+        "contents=empty": { "model": "flower_pot"},
+        "contents=rose": [ 
+			{"model": "echec2"},
+			{"model": "echec3"}
+		],
+        "contents=blue_orchid": [ 
+			{"model": "flower_pot_orchid" },
+			{"model": "flower_pot_orchid1" },
+			{"model": "flower_pot_orchid2" },
+			{"model": "flower_pot_orchid3" },
+			{"model": "flower_pot_orchid_pot" },
+			{"model": "flower_pot_orchid_pot1" },
+			{"model": "flower_pot_orchid_pot2" },
+			{"model": "flower_pot_orchid_pot3" }
+		],
+        "contents=allium":           { "model": "flower_pot_allium" },
+        "contents=houstonia":        { "model": "flower_pot_houstonia" },
+        "contents=red_tulip": [ 
+            { "model": "sponge", "y": 0 },
+            { "model": "sponge", "y": 90 },
+            { "model": "sponge", "y": 180 },
+            { "model": "sponge", "y": 270 },
+            { "model": "sponge1", "y": 0 },
+            { "model": "sponge1", "y": 90 },
+            { "model": "sponge1", "y": 180 },
+            { "model": "sponge1", "y": 270 }
+		],
+        "contents=pink_tulip":       { "model": "flower_pot_tulip_pink" },
+        "contents=oxeye_daisy": [ 
+			{"model": "flower_pot_daisy" },
+			{"model": "flower_pot_daisy1" },
+			{"model": "flower_pot_daisy2" },
+			{"model": "flower_pot_daisy3" },
+			{"model": "flower_pot_daisy_pot" },
+			{"model": "flower_pot_daisy_pot1" },
+			{"model": "flower_pot_daisy_pot2" },
+			{"model": "flower_pot_daisy_pot3" }
+		],
+        "contents=dandelion":        { "model": "echec1" },
+        "contents=birch_sapling":    { "model": "flower_pot_birch" },
+        "contents=mushroom_red":     { "model": "flower_pot_mushroom_red" },
+        "contents=spruce_sapling": [ 
+			{"model": "decor_owlcage1", "y" : 0 },
+			{"model": "decor_owlcage1", "y" : 90 },
+			{"model": "decor_owlcage1", "y" : 180 },
+			{"model": "decor_owlcage1", "y" : 270 }
+		],
+		"contents=white_tulip": [ 
+			{"model": "decor_owlcage3", "y" : 0 },
+			{"model": "decor_owlcage3", "y" : 90 },
+			{"model": "decor_owlcage3", "y" : 180 },
+			{"model": "decor_owlcage3", "y" : 270 }
+		],
+		"contents=orange_tulip": [ 
+			{"model": "decor_owlcage2", "y" : 0 },
+			{"model": "decor_owlcage2", "y" : 180 },
+			{"model": "decor_owlcage2", "y" : 90 },
+			{"model": "decor_owlcage2", "y" : 270 }
+		],
+        "contents=fern": [ 
+			{"model": "prop_barrel", "y" : 0 },
+			{"model": "prop_barrel", "y" : 90 },
+			{"model": "prop_barrel", "y" : 180 },
+			{"model": "prop_barrel", "y" : 270 }
+		],
+        "contents=mushroom_brown": [ 
+			{"model": "mortier", "y" : 0 },
+			{"model": "mortier", "y" : 90 },
+			{"model": "mortier", "y" : 180 },
+			{"model": "mortier", "y" : 270 }
+		],
+        "contents=dark_oak_sapling": [ 
+			{"model": "candybeans", "y" : 0 },
+			{"model": "candybeans", "y" : 90 },
+			{"model": "candybeans", "y" : 180 },
+			{"model": "candybeans", "y" : 270 }
+		],
+		"contents=dead_bush": [  
+			{"model": "teapot", "y" : 0 }, 
+			{"model": "teapot", "y" : 90 }, 
+			{"model": "teapot", "y" : 180 }, 
+			{"model": "teapot", "y" : 270 } 
+		], 
+        "contents=acacia_sapling": [ 
+			{"model": "block_bottlestack", "y" : 0 },
+			{"model": "block_bottlestack", "y" : 90 },
+			{"model": "block_bottlestack", "y" : 180 },
+			{"model": "block_bottlestack", "y" : 270 }
+		],
+        "contents=oak_sapling": [ 
+			{"model": "goldglobe", "y" : 0 },
+			{"model": "goldglobe", "y" : 90 },
+			{"model": "goldglobe", "y" : 180 },
+			{"model": "goldglobe", "y" : 270 }
+		],
+        "contents=cactus": [ 
+			{"model": "pumpkinjuice", "y" : 0 },
+			{"model": "pumpkinjuice", "y" : 90 },
+			{"model": "pumpkinjuice", "y" : 180 },
+			{"model": "pumpkinjuice", "y" : 270 }
+		],
+        "contents=jungle_sapling": [ 
+			{"model": "robes_stack", "y" : 0 },
+			{"model": "robes_stack", "y" : 90 },
+			{"model": "robes_stack", "y" : 180 },
+			{"model": "robes_stack", "y" : 270 }
+		]
+    }
+}

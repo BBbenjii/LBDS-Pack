@@ -1,0 +1,54 @@
+{
+    "variants": {
+        "has_bottle_0=false,has_bottle_1=false,has_bottle_2=false": [
+			{ "model": "block/brewing_stand_000", "y": 0 },
+			{ "model": "block/brewing_stand_000", "y": 90 },
+			{ "model": "block/brewing_stand_000", "y": 180 },
+			{ "model": "block/brewing_stand_000", "y": 270 }
+		],
+        "has_bottle_0=true,has_bottle_1=false,has_bottle_2=false": [
+			{ "model": "block/brewing_stand_100", "y": 0 },
+			{ "model": "block/brewing_stand_100", "y": 90 },
+			{ "model": "block/brewing_stand_100", "y": 180 },
+			{ "model": "block/brewing_stand_100", "y": 270 }
+		],
+        "has_bottle_0=false,has_bottle_1=true,has_bottle_2=false": [ 
+			{ "model": "block/brewing_stand_010", "y": 0 },
+			{ "model": "block/brewing_stand_010", "y": 90 },
+			{ "model": "block/brewing_stand_010", "y": 180 },
+			{ "model": "block/brewing_stand_010", "y": 270 }
+		],
+        "has_bottle_0=false,has_bottle_1=false,has_bottle_2=true": [
+			{ "model": "block/brewing_stand_001", "y": 0 },
+			{ "model": "block/brewing_stand_001", "y": 90 },
+			{ "model": "block/brewing_stand_001", "y": 180 },
+			{ "model": "block/brewing_stand_001", "y": 270 }
+		],
+        "has_bottle_0=true,has_bottle_1=true,has_bottle_2=false": [ 
+			{ "model": "block/brewing_stand_110", "y": 0 },
+			{ "model": "block/brewing_stand_110", "y": 90 }
+		],
+        "has_bottle_0=true,has_bottle_1=false,has_bottle_2=true": [ 
+			{ "model": "block/brewing_stand_101", "y": 0 },
+			{ "model": "block/brewing_stand_101", "y": 90 },
+			{ "model": "block/brewing_stand_101", "y": 180 },
+			{ "model": "block/brewing_stand_101", "y": 270 }
+		],
+        "has_bottle_0=false,has_bottle_1=true,has_bottle_2=true": [ 
+			{ "model": "block/brewing_stand_011", "y": 0 },
+			{ "model": "block/brewing_stand_011", "y": 90 },
+			{ "model": "block/brewing_stand_011", "y": 180 },
+			{ "model": "block/brewing_stand_011", "y": 270 },
+			{ "model": "block/brewing_stand_011", "y": 0 },
+			{ "model": "block/brewing_stand_011", "y": 90 },
+			{ "model": "block/brewing_stand_011", "y": 180 },
+			{ "model": "block/brewing_stand_011", "y": 270 }
+		],
+        "has_bottle_0=true,has_bottle_1=true,has_bottle_2=true": [ 
+			{ "model": "block/brewing_stand_111", "y": 0 },
+			{ "model": "block/brewing_stand_111", "y": 90 },
+			{ "model": "block/brewing_stand_111", "y": 180 },
+			{ "model": "block/brewing_stand_111", "y": 270 }
+		]
+    }
+}

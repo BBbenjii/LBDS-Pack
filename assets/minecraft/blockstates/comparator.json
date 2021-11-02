@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing\u003dsouth,mode\u003dcompare,powered\u003dfalse": {
+      "model": "block/cooking_pots"
+    },
+    "facing\u003dwest,mode\u003dcompare,powered\u003dfalse": {
+      "model": "block/comparator",
+      "y": 90
+    },
+    "facing\u003dnorth,mode\u003dcompare,powered\u003dfalse": {
+      "model": "block/comparator",
+      "y": 180
+    },
+    "facing\u003deast,mode\u003dcompare,powered\u003dfalse": {
+      "model": "block/comparator",
+      "y": 270
+    },
+    "facing\u003dsouth,mode\u003dsubtract,powered\u003dfalse": {
+      "model": "block/cooking_pots"
+    },
+    "facing\u003dwest,mode\u003dsubtract,powered\u003dfalse": {
+      "model": "block/comparator",
+      "y": 90
+    },
+    "facing\u003dnorth,mode\u003dsubtract,powered\u003dfalse": {
+      "model": "block/comparator_subtract",
+      "y": 180
+    },
+    "facing\u003deast,mode\u003dsubtract,powered\u003dfalse": {
+      "model": "block/comparator_subtract",
+      "y": 270
+    },
+    "facing\u003dsouth,mode\u003dcompare,powered\u003dtrue": {
+      "model": "block/comparator_on"
+    },
+    "facing\u003dwest,mode\u003dcompare,powered\u003dtrue": {
+      "model": "block/comparator_on",
+      "y": 90
+    },
+    "facing\u003dnorth,mode\u003dcompare,powered\u003dtrue": {
+      "model": "block/comparator_on",
+      "y": 180
+    },
+    "facing\u003deast,mode\u003dcompare,powered\u003dtrue": {
+      "model": "block/comparator_on",
+      "y": 270
+    },
+    "facing\u003dsouth,mode\u003dsubtract,powered\u003dtrue": {
+      "model": "block/comparator_on_subtract"
+    },
+    "facing\u003dwest,mode\u003dsubtract,powered\u003dtrue": {
+      "model": "block/comparator_on_subtract",
+      "y": 90
+    },
+    "facing\u003dnorth,mode\u003dsubtract,powered\u003dtrue": {
+      "model": "block/comparator_on_subtract",
+      "y": 180
+    },
+    "facing\u003deast,mode\u003dsubtract,powered\u003dtrue": {
+      "model": "block/comparator_on_subtract",
+      "y": 270
+    }
+  }
+}

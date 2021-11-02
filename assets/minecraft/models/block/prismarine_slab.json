@@ -1,0 +1,22 @@
+{
+	"__comment": "Designed by Sofakine Luvi with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/prismarine_slab",
+		"texture": "block/prismarine_slab"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 0.001, 0.001, 0.001 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 14.5 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 14.5 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 14.5 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 14.5 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 16, 14.5 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 14.5 ], "texture": "#texture" }
+			}
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "variants": {
+        "normal": [
+            { "model": "redstone_lamp_on" },
+            { "model": "redstone_lamp_on1" },
+            { "model": "redstone_lamp_on2" },
+            { "model": "redstone_lamp_on3" }
+        ]
+    }
+}

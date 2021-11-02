@@ -1,0 +1,23 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "variants": {
+        "type=bottom": [
+            { "model": "block/diorite_slab" },
+            { "model": "block/diorite_slab1" },
+            { "model": "block/diorite_slab2" },
+            { "model": "block/diorite_slab3" }
+        ],
+        "type=top": [
+            { "model": "block/diorite_slab_top" },
+            { "model": "block/diorite_slab_top1" },
+            { "model": "block/diorite_slab_top2" },
+            { "model": "block/diorite_slab_top3" }
+        ],
+        "type=double": [
+            { "model": "block/diorite" },
+            { "model": "block/diorite1" },
+            { "model": "block/diorite2" },
+            { "model": "block/diorite3" }
+        ]
+    }
+}

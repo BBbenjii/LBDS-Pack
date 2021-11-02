@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "variants": {
+        "": [
+            { "model": "block/polished_granite" },
+            { "model": "block/polished_granite1" },
+            { "model": "block/polished_granite2" },
+            { "model": "block/polished_granite3" }
+        ]
+    }
+}

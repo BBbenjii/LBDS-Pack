@@ -1,0 +1,23 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "variants": {
+        "type=bottom": [
+            { "model": "block/andesite_slab" },
+            { "model": "block/andesite_slab1" },
+            { "model": "block/andesite_slab2" },
+            { "model": "block/andesite_slab3" }
+        ],
+        "type=top": [
+            { "model": "block/andesite_slab_top" },
+            { "model": "block/andesite_slab_top1" },
+            { "model": "block/andesite_slab_top2" },
+            { "model": "block/andesite_slab_top3" }
+        ],
+        "type=double": [
+            { "model": "block/andesite" },
+            { "model": "block/andesite1" },
+            { "model": "block/andesite2" },
+            { "model": "block/andesite3" }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/polished_granite3",
+        "side": "block/polished_granite_slab_side"
+    }
+}

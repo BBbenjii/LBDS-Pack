@@ -1,0 +1,1444 @@
+{
+  "__comment": "© Droobledore LLC",
+  "textures": {
+    "particle": "block/plate",
+    "texture": "block/plate",
+    "beef_cooked": "item/cooked_chicken",
+    "potato_baked": "item/bread",
+    "reeds": "item/cooked_beef",
+    "cutlery": "block/cutlery"
+  },
+  "elements": [
+    {
+      "from": [
+        5,
+        0.5,
+        1
+      ],
+      "to": [
+        11,
+        1,
+        13
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11,
+            14,
+            5,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            5,
+            2,
+            11,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        0.5,
+        4
+      ],
+      "to": [
+        14,
+        1,
+        10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14,
+            11,
+            2,
+            5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            2,
+            5,
+            14,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        0.5,
+        1.5
+      ],
+      "to": [
+        12,
+        1,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            13.5,
+            4,
+            2.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            4,
+            2.5,
+            12,
+            13.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        2.5,
+        0.5,
+        3
+      ],
+      "to": [
+        13.5,
+        1,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            13.5,
+            12,
+            2.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            4,
+            13.5,
+            12
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        3.5,
+        0.5,
+        2
+      ],
+      "to": [
+        12.5,
+        1,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.5,
+            13,
+            3.5,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            3,
+            12.5,
+            13
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        4.5,
+        0,
+        3
+      ],
+      "to": [
+        11.5,
+        0.5,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            11.5,
+            12,
+            4.5,
+            4
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        0,
+        3.5
+      ],
+      "to": [
+        12,
+        0.5,
+        10.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            11.5,
+            4,
+            4.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        4.5,
+        -0.3,
+        13.5
+      ],
+      "to": [
+        11.5,
+        0.2,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            3,
+            1,
+            12,
+            15
+          ],
+          "rotation": 90,
+          "texture": "#cutlery"
+        }
+      }
+    },
+    {
+      "from": [
+        8.5,
+        1,
+        3.5
+      ],
+      "to": [
+        12.5,
+        5,
+        7.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            3,
+            13,
+            8
+          ],
+          "texture": "#beef_cooked"
+        },
+        "up": {
+          "uv": [
+            8,
+            3,
+            13,
+            8
+          ],
+          "texture": "#beef_cooked"
+        },
+        "north": {
+          "uv": [
+            8.5,
+            3,
+            13.5,
+            8
+          ],
+          "texture": "#beef_cooked"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            3,
+            13.5,
+            8
+          ],
+          "texture": "#beef_cooked"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            3,
+            13.5,
+            8
+          ],
+          "texture": "#beef_cooked"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            3,
+            13.5,
+            8
+          ],
+          "texture": "#beef_cooked"
+        }
+      }
+    },
+    {
+      "from": [
+        9,
+        1.5,
+        2.5
+      ],
+      "to": [
+        12,
+        4.5,
+        3.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            3.5,
+            14.5,
+            5.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "up": {
+          "uv": [
+            8,
+            4,
+            14,
+            6
+          ],
+          "texture": "#beef_cooked"
+        },
+        "north": {
+          "uv": [
+            9,
+            2.5,
+            14,
+            7.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "south": {
+          "uv": [
+            11,
+            2.5,
+            13,
+            7
+          ],
+          "texture": "#beef_cooked"
+        },
+        "west": {
+          "uv": [
+            11,
+            2,
+            13,
+            6.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "east": {
+          "uv": [
+            10.5,
+            2,
+            13,
+            6.5
+          ],
+          "texture": "#beef_cooked"
+        }
+      }
+    },
+    {
+      "from": [
+        9.5,
+        2,
+        2
+      ],
+      "to": [
+        11.5,
+        4,
+        2.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            4.5,
+            14.5,
+            6.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "up": {
+          "uv": [
+            8,
+            4.5,
+            14,
+            6.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "north": {
+          "uv": [
+            9,
+            2.5,
+            14,
+            7.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "south": {
+          "uv": [
+            10,
+            3.5,
+            12,
+            8
+          ],
+          "texture": "#beef_cooked"
+        },
+        "west": {
+          "uv": [
+            10.5,
+            3.5,
+            12.5,
+            8
+          ],
+          "texture": "#beef_cooked"
+        },
+        "east": {
+          "uv": [
+            10,
+            3.5,
+            12.5,
+            8
+          ],
+          "texture": "#beef_cooked"
+        }
+      }
+    },
+    {
+      "from": [
+        9,
+        1.5,
+        7.5
+      ],
+      "to": [
+        12,
+        4.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            3.5,
+            13,
+            7.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            3,
+            13.5,
+            7
+          ],
+          "texture": "#beef_cooked"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            3,
+            13.5,
+            7
+          ],
+          "texture": "#beef_cooked"
+        },
+        "south": {
+          "uv": [
+            9,
+            3.5,
+            13,
+            7.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "west": {
+          "uv": [
+            9,
+            3.5,
+            13,
+            7.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            3,
+            13.5,
+            7.5
+          ],
+          "texture": "#beef_cooked"
+        }
+      }
+    },
+    {
+      "from": [
+        10,
+        2.5,
+        9.5
+      ],
+      "to": [
+        11,
+        3.5,
+        11.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            10.5,
+            3,
+            11.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "up": {
+          "uv": [
+            2,
+            10.5,
+            3,
+            11.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "south": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "west": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        }
+      }
+    },
+    {
+      "from": [
+        9.5,
+        2.5,
+        11.5
+      ],
+      "to": [
+        11.5,
+        3.5,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            10.5,
+            3,
+            11.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "up": {
+          "uv": [
+            2,
+            10.5,
+            3,
+            11.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "north": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "south": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "west": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.5,
+            5,
+            13.5
+          ],
+          "texture": "#beef_cooked"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        1,
+        7.5
+      ],
+      "to": [
+        9,
+        2,
+        11.5
+      ],
+      "rotation": {
+        "origin": [
+          5,
+          1,
+          7.5
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6,
+            4.5,
+            10,
+            9
+          ],
+          "texture": "#reeds"
+        },
+        "up": {
+          "uv": [
+            6,
+            4,
+            10,
+            9
+          ],
+          "texture": "#reeds"
+        },
+        "north": {
+          "uv": [
+            5,
+            5,
+            8,
+            6.5
+          ],
+          "texture": "#reeds"
+        },
+        "south": {
+          "uv": [
+            9,
+            6,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "west": {
+          "uv": [
+            10,
+            5.5,
+            13,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "east": {
+          "uv": [
+            9,
+            6,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        }
+      }
+    },
+    {
+      "from": [
+        8.375,
+        1,
+        9.5625
+      ],
+      "to": [
+        9.375,
+        1.5,
+        12.5625
+      ],
+      "rotation": {
+        "origin": [
+          8.375,
+          1,
+          9.5625
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            4,
+            7.5,
+            6
+          ],
+          "texture": "#reeds"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            4.5,
+            6.5,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            4,
+            7,
+            6.5
+          ],
+          "texture": "#reeds"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            4,
+            7,
+            6.5
+          ],
+          "texture": "#reeds"
+        },
+        "west": {
+          "uv": [
+            6,
+            4,
+            7.5,
+            6.5
+          ],
+          "texture": "#reeds"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            4,
+            7.5,
+            6.5
+          ],
+          "texture": "#reeds"
+        }
+      }
+    },
+    {
+      "from": [
+        3.4375,
+        1.3125,
+        7.4375
+      ],
+      "to": [
+        4.9375,
+        1.8125,
+        9.9375
+      ],
+      "rotation": {
+        "origin": [
+          3.4375,
+          1.3125,
+          7.4375
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            4,
+            7.5,
+            6
+          ],
+          "texture": "#reeds"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            4,
+            7.5,
+            6
+          ],
+          "texture": "#reeds"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            6,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            6,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "west": {
+          "uv": [
+            10,
+            6,
+            12.5,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "east": {
+          "uv": [
+            10,
+            6,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        }
+      }
+    },
+    {
+      "from": [
+        2.375,
+        1.1875,
+        7.5625
+      ],
+      "to": [
+        3.375,
+        1.6875,
+        9.0625
+      ],
+      "rotation": {
+        "origin": [
+          2.375,
+          1.1875,
+          7.5625
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            10,
+            5.5,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "up": {
+          "uv": [
+            10,
+            5.5,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "north": {
+          "uv": [
+            10,
+            5.5,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        },
+        "south": {
+          "uv": [
+            10,
+            6,
+            12,
+            7.5
+          ],
+          "texture": "#reeds"
+        },
+        "west": {
+          "uv": [
+            10.5,
+            6,
+            12.5,
+            7.5
+          ],
+          "texture": "#reeds"
+        },
+        "east": {
+          "uv": [
+            10,
+            5.5,
+            12,
+            7
+          ],
+          "texture": "#reeds"
+        }
+      }
+    },
+    {
+      "from": [
+        3.875,
+        0.75,
+        3.83555
+      ],
+      "to": [
+        6.875,
+        3,
+        7.58555
+      ],
+      "rotation": {
+        "origin": [
+          3.875,
+          0.75,
+          3.83555
+        ],
+        "axis": "y",
+        "angle": 22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            3.5,
+            13,
+            8
+          ],
+          "texture": "#potato_baked"
+        },
+        "up": {
+          "uv": [
+            8,
+            3.5,
+            13,
+            8
+          ],
+          "texture": "#potato_baked"
+        },
+        "north": {
+          "uv": [
+            6,
+            5.5,
+            11,
+            7.5
+          ],
+          "texture": "#potato_baked"
+        },
+        "south": {
+          "uv": [
+            6,
+            5.5,
+            11,
+            7.5
+          ],
+          "texture": "#potato_baked"
+        },
+        "west": {
+          "uv": [
+            6,
+            5.5,
+            11,
+            7.5
+          ],
+          "texture": "#potato_baked"
+        },
+        "east": {
+          "uv": [
+            6,
+            5.5,
+            11,
+            7.5
+          ],
+          "texture": "#potato_baked"
+        }
+      }
+    },
+    {
+      "from": [
+        3.875,
+        1.125,
+        3.35938
+      ],
+      "to": [
+        6.125,
+        2.625,
+        4.10938
+      ],
+      "rotation": {
+        "origin": [
+          3.875,
+          1.125,
+          3.35938
+        ],
+        "axis": "y",
+        "angle": 22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            5.5,
+            10,
+            7
+          ],
+          "texture": "#potato_baked"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            5,
+            10,
+            7.5
+          ],
+          "texture": "#potato_baked"
+        },
+        "north": {
+          "uv": [
+            6,
+            5.5,
+            9,
+            7
+          ],
+          "texture": "#potato_baked"
+        },
+        "south": {
+          "uv": [
+            6,
+            5.5,
+            9,
+            7
+          ],
+          "texture": "#potato_baked"
+        },
+        "west": {
+          "uv": [
+            6,
+            5.5,
+            9,
+            7
+          ],
+          "texture": "#potato_baked"
+        },
+        "east": {
+          "uv": [
+            6,
+            5.5,
+            9,
+            7
+          ],
+          "texture": "#potato_baked"
+        }
+      }
+    },
+    {
+      "from": [
+        5.65625,
+        1.125,
+        7.10938
+      ],
+      "to": [
+        7.90625,
+        2.625,
+        7.85938
+      ],
+      "rotation": {
+        "origin": [
+          5.65625,
+          1.125,
+          7.10938
+        ],
+        "axis": "y",
+        "angle": 22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            5.5,
+            10,
+            7
+          ],
+          "texture": "#potato_baked"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            5,
+            10,
+            7.5
+          ],
+          "texture": "#potato_baked"
+        },
+        "north": {
+          "uv": [
+            6,
+            5.5,
+            9,
+            7
+          ],
+          "texture": "#potato_baked"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            9,
+            7.5,
+            10.5
+          ],
+          "texture": "#potato_baked"
+        },
+        "west": {
+          "uv": [
+            6,
+            5.5,
+            9,
+            7
+          ],
+          "texture": "#potato_baked"
+        },
+        "east": {
+          "uv": [
+            6,
+            5.5,
+            9,
+            7
+          ],
+          "texture": "#potato_baked"
+        }
+      }
+    }
+  ]
+}

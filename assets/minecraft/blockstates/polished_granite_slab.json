@@ -1,0 +1,23 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "variants": {
+        "type=bottom": [
+            { "model": "block/polished_granite_slab" },
+            { "model": "block/polished_granite_slab1" },
+            { "model": "block/polished_granite_slab2" },
+            { "model": "block/polished_granite_slab3" }
+        ],
+        "type=top": [
+            { "model": "block/polished_granite_slab_top" },
+            { "model": "block/polished_granite_slab_top1" },
+            { "model": "block/polished_granite_slab_top2" },
+            { "model": "block/polished_granite_slab_top3" }
+        ],
+        "type=double": [
+            { "model": "block/polished_granite_slab_double" },
+            { "model": "block/polished_granite_slab_double1" },
+            { "model": "block/polished_granite_slab_double2" },
+            { "model": "block/polished_granite_slab_double3" }
+        ]
+    }
+}

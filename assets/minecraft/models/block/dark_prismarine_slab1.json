@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/dark_prismarine1",
+        "top": "block/dark_prismarine1",
+        "side": "block/dark_prismarine1"
+    }
+}

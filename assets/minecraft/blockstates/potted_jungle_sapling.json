@@ -1,0 +1,23 @@
+{
+  "comment": "Split off from flower_pot",
+  "variants": {
+    "": [
+      {
+        "model": "block/robes_stack",
+        "y": 0
+      },
+      {
+        "model": "block/robes_stack",
+        "y": 90
+      },
+      {
+        "model": "block/robes_stack",
+        "y": 180
+      },
+      {
+        "model": "block/robes_stack",
+        "y": 270
+      }
+    ]
+  }
+}

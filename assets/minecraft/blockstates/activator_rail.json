@@ -1,0 +1,49 @@
+{
+  "__comment": "JimStoneCraft - 2016",
+  "variants": {
+    "powered\u003dfalse,shape\u003dnorth_south": {
+      "model": "block/activator_rail_flat"
+    },
+    "powered\u003dfalse,shape\u003deast_west": {
+      "model": "block/activator_rail_flat",
+      "y": 90
+    },
+    "powered\u003dfalse,shape\u003dascending_east": {
+      "model": "block/activator_rail_raised",
+      "y": 270
+    },
+    "powered\u003dfalse,shape\u003dascending_west": {
+      "model": "block/activator_rail_raised",
+      "y": 90
+    },
+    "powered\u003dfalse,shape\u003dascending_north": {
+      "model": "block/activator_rail_raised",
+      "y": 180
+    },
+    "powered\u003dfalse,shape\u003dascending_south": {
+      "model": "block/activator_rail_raised"
+    },
+    "powered\u003dtrue,shape\u003dnorth_south": {
+      "model": "block/activator_rail_active_flat"
+    },
+    "powered\u003dtrue,shape\u003deast_west": {
+      "model": "block/activator_rail_active_flat",
+      "y": 90
+    },
+    "powered\u003dtrue,shape\u003dascending_east": {
+      "model": "block/activator_rail_active_raised",
+      "y": 270
+    },
+    "powered\u003dtrue,shape\u003dascending_west": {
+      "model": "block/activator_rail_active_raised",
+      "y": 90
+    },
+    "powered\u003dtrue,shape\u003dascending_north": {
+      "model": "block/activator_rail_active_raised",
+      "y": 180
+    },
+    "powered\u003dtrue,shape\u003dascending_south": {
+      "model": "block/activator_rail_active_raised"
+    }
+  }
+}

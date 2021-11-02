@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "variants": {
+        "": [
+            { "model": "block/teapot", "weight": 25 },
+            { "model": "block/teapot", "weight": 25 },
+            { "model": "block/teapot", "weight": 25 },
+            { "model": "block/teapot", "weight": 25 }
+        ]
+    }
+}

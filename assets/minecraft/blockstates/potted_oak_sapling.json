@@ -1,0 +1,23 @@
+{
+  "comment": "Split off from flower_pot",
+  "variants": {
+    "": [
+      {
+        "model": "block/goldglobe",
+        "y": 0
+      },
+      {
+        "model": "block/goldglobe",
+        "y": 90
+      },
+      {
+        "model": "block/goldglobe",
+        "y": 180
+      },
+      {
+        "model": "block/goldglobe",
+        "y": 270
+      }
+    ]
+  }
+}

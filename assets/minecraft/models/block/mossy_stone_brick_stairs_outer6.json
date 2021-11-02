@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "block/mossy_stone_bricks6",
+        "top": "block/mossy_stone_bricks_top6",
+        "side": "block/mossy_stone_bricks6"
+    }
+}

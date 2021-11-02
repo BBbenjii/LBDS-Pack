@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "variants": {
+        "": [
+            { "model": "block/block_bottlestack", "weight": 25 },
+            { "model": "block/block_bottlestack", "weight": 25 },
+            { "model": "block/block_bottlestack", "weight": 25 },
+            { "model": "block/block_bottlestack", "weight": 25 }
+        ]
+    }
+}

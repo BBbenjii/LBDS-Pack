@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "parent": "block/custom_template_wall_post",
+    "textures": {
+        "wall": "block/nether_bricks1",
+        "top": "block/nether_bricks_top1",
+        "bottom": "block/nether_bricks_bottom1"
+    }
+}
