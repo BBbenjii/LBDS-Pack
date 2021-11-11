@@ -1,0 +1,6 @@
+{
+    "parent": "block/custom/clothes_polehanger_dark",
+    "textures": {
+      "cross": "block/custom/clothes_polehanger_dark1"
+    }
+}

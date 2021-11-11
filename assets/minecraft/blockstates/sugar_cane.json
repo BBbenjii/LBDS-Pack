@@ -3,9 +3,15 @@
         "age=15": { "model": "block/custom/bookwithglasses" },
         "age=14": { "model": "block/custom/glassbottle_green" },
         "age=13": [
-            { "model": "block/custom/specimeninbottle"},
-            { "model": "block/custom/specimeninbottle2"},
-            { "model": "block/custom/specimeninbottle3"}
+            { "model": "block/custom/specimeninbottle" },
+            { "model": "block/custom/specimeninbottle2" },
+            { "model": "block/custom/specimeninbottle3" }
+        ],
+        "age=12": { "model": "block/custom/book_pile_antique_double" },
+        "age=11": { "model": "block/custom/quillpen" },
+        "age=10": [
+            { "model": "block/custom/clothes_polehanger_dark" },
+            { "model": "block/custom/clothes_polehanger_dark1" }
         ]
     }
 }
