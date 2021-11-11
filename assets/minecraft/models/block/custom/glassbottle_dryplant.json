@@ -1,0 +1,6 @@
+{
+	"parent": "block/custom/glassbottle_cottonflower",
+	"textures": {
+		"0": "block/custom/glassbottle_dryplant"
+	}
+}

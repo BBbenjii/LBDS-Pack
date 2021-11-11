@@ -12,6 +12,12 @@
         "age=10": [
             { "model": "block/custom/clothes_polehanger_dark" },
             { "model": "block/custom/clothes_polehanger_dark1" }
-        ]
+        ],
+        "age=9": { "model": "block/custom/tablelamp_stainedglass_blue" },
+        "age=8": { "model": "block/custom/tablelamp_stainedglass_yellow" },
+        "age=7": { "model": "block/custom/tablelamp_stainedglass_red" },
+        "age=6": { "model": "block/custom/tablelamp_stainedglass_green" },
+        "age=5": { "model": "block/custom/glassbottle_dryplant" },
+        "age=4": { "model": "block/custom/glassbottle_cottonflower" }
     }
 }
