@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "age=15": { "model": "block/custom/glassbottle_green" }
+    }
+}
