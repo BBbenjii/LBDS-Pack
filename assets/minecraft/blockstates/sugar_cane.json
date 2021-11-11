@@ -1,5 +1,6 @@
 {
     "variants": {
-        "age=15": { "model": "block/custom/glassbottle_green" }
+        "age=15": { "model": "block/custom/bookwithglasses" },
+        "age=14": { "model": "block/custom/glassbottle_green" }
     }
 }
