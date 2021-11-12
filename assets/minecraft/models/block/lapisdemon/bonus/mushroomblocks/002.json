@@ -1,0 +1,70 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cocricotmod:block/speaker_retro_white",
+	"textures": {
+		"0": "block/lapisdemon/bonus/mushroomblocks/speaker_retro_black",
+		"particle": "block/lapisdemon/bonus/mushroomblocks/stone_color_black"
+	},
+	"elements": [
+		{
+			"from": [5, 0.5, 7],
+			"to": [12, 4.5, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 9.5, 5.5], "texture": "#0"},
+				"east": {"uv": [9.5, 0, 15, 5.5], "texture": "#0"},
+				"south": {"uv": [9.5, 0, 15, 5.5], "texture": "#0"},
+				"west": {"uv": [9.5, 0, 15, 5.5], "texture": "#0"},
+				"up": {"uv": [0, 5.5, 9.5, 11.5], "texture": "#0"},
+				"down": {"uv": [9.5, 5.5, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 0, 7.2],
+			"to": [6, 0.5, 7.7],
+			"faces": {
+				"north": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"east": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"south": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"west": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"up": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"down": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 0, 7.2],
+			"to": [11.5, 0.5, 7.7],
+			"faces": {
+				"north": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"east": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"south": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"west": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"up": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"down": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 0, 10.2],
+			"to": [6, 0.5, 10.7],
+			"faces": {
+				"north": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"east": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"south": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"west": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"up": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"down": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 0, 10.2],
+			"to": [11.5, 0.5, 10.7],
+			"faces": {
+				"north": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"east": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"south": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"west": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"up": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"},
+				"down": {"uv": [9.5, 0, 14.5, 5.5], "texture": "#0"}
+			}
+		}
+	]
+}

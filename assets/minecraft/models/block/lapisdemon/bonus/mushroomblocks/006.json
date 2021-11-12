@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/lapisdemon/bonus/mushroomblocks/book_antique",
+		"particle": "block/lapisdemon/bonus/mushroomblocks/planks_antique"
+	},
+	"elements": [
+		{
+			"from": [0.11293, 0, 8.11293],
+			"to": [6.11293, 7.5, 12.11293],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.11293, 3.94907, 10]},
+			"faces": {
+				"north": {"uv": [10, 7.5, 4, 0], "texture": "#0"},
+				"east": {"uv": [10, 0, 14, 7.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 7.5], "texture": "#0"},
+				"up": {"uv": [10, 11.5, 4, 7.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10, 7.5, 4, 11.5], "rotation": 180, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0.11293, -1.51219, 5.13478],
+			"to": [6.11293, 5.98781, 7.13478],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [6.11293, 3.94907, 10]},
+			"faces": {
+				"north": {"uv": [10, 7.5, 4, 0], "texture": "#0"},
+				"east": {"uv": [10, 0, 12, 7.5], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [4, 0, 10, 7.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 7.5], "texture": "#0"},
+				"up": {"uv": [10, 9.5, 4, 7.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10, 7.5, 4, 9.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.11293, 0, 12.11293],
+			"to": [6.11293, 8.5, 16.11293],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.11293, 3.94907, 10]},
+			"faces": {
+				"north": {"uv": [10, 7.5, 4, 0], "texture": "#0"},
+				"east": {"uv": [10, 0, 14, 7.5], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [4, 0, 10, 7.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 7.5], "texture": "#0"},
+				"up": {"uv": [10, 11.5, 4, 7.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10, 7.5, 4, 11.5], "rotation": 180, "texture": "#0", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [2.6, 0.6, 0],
+			"scale": [1.15, 1.15, 1.15]
+		}
+	}
+}
