@@ -19,7 +19,7 @@
 	{"predicate":{"damaged":0,"damage":0.011523687580025609},"model":"item/custom/baguette_narcissamalefoy"},
 	{"predicate":{"damaged":0,"damage":0.012163892445582586},"model":"item/custom/baguette_olivierdubois"},
 	{"predicate":{"damaged":0,"damage":0.012804097311139564},"model":"item/custom/horloge"},
-	{"predicate":{"damaged":0,"damage":0.013444302176696543},"model":"item/custom/repeater_knight"},
+	{"predicate":{"damaged":0,"damage":0.013444302176696543},"model":"item/custom/statue_grande_salle"},
 	{"predicate":{"damaged":0,"damage":0.01408450704225352},"model":"item/custom/trevor"},
 	{"predicate":{"damaged":0,"damage":0.014724711907810498},"model":"item/custom/statue_cours_meta"},
 	{"predicate":{"damaged":0,"damage":0.015364916773367477},"model":"item/custom/balais"},

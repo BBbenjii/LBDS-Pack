@@ -3,6 +3,7 @@
 	"parent": "block/slab",
 	"textures": {
 		"bottom": "block/custom/chair_wood"
+		
 	},
 	"elements": [
 		{
