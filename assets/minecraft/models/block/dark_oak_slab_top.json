@@ -1,19 +1,19 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "block/stone",
-		"texture": "block/stone"
+		"particle": "block/dark_oak_planks",
+		"texture": "block/dark_oak_planks"
 	},
 	"elements": [
 		{
 			"name": "Box1",
-			"from": [0, 0, 0],
+			"from": [0, 8, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"north": {"uv": [0, 0, 16, 8], "texture": "#texture"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#texture"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#texture"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#texture"}
 			}
