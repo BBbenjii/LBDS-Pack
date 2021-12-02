@@ -1,9 +1,9 @@
 {
-    "__comment": "JimStoneCraft - 2019",
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "block/smooth_stone_bottom",
-        "top": "block/smooth_stone_top",
-        "side": "block/smooth_stone"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/stairs",
+	"textures": {
+		"bottom": "block/texture_gold",
+		"top": "block/texture_gold",
+		"side": "block/texture_gold"
+	}
 }
