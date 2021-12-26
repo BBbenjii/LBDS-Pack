@@ -1,8 +1,1 @@
-{
-    "__comment": "JimStoneCraft - 2020",
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/leather_horse_armor",
-        "layer1": "item/leather_horse_armor_overlay"
-    }
-}
+{"data":16,"parent":"item/generated","textures":{"layer0":"item/leather_horse_armor"},"overrides":[{"predicate":{"custom_model_data":1},"model":"modelengine:kindletronjr/head"},{"predicate":{"custom_model_data":2},"model":"modelengine:kindletronjr/rightarm"},{"predicate":{"custom_model_data":3},"model":"modelengine:kindletronjr/leftarm"},{"predicate":{"custom_model_data":4},"model":"modelengine:kindletronjr/leftleg"},{"predicate":{"custom_model_data":5},"model":"modelengine:kindletronjr/rightleg"},{"predicate":{"custom_model_data":6},"model":"modelengine:kindletronjr/torso"},{"predicate":{"custom_model_data":7},"model":"modelengine:kindletronsr/head"},{"predicate":{"custom_model_data":8},"model":"modelengine:kindletronsr/righthand"},{"predicate":{"custom_model_data":9},"model":"modelengine:kindletronsr/rightarm"},{"predicate":{"custom_model_data":10},"model":"modelengine:kindletronsr/lefthand"},{"predicate":{"custom_model_data":11},"model":"modelengine:kindletronsr/leftarm"},{"predicate":{"custom_model_data":12},"model":"modelengine:kindletronsr/rightfoot"},{"predicate":{"custom_model_data":13},"model":"modelengine:kindletronsr/rightleg"},{"predicate":{"custom_model_data":14},"model":"modelengine:kindletronsr/leftfoot"},{"predicate":{"custom_model_data":15},"model":"modelengine:kindletronsr/leftleg"},{"predicate":{"custom_model_data":16},"model":"modelengine:kindletronsr/kindletronsr"}]}
