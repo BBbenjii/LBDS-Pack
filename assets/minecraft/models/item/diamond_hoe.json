@@ -42,7 +42,7 @@
 	{"predicate":{"damaged":0,"damage":0.026248399487836107},"model":"item/custom/tableaux_pied"},
 	{"predicate":{"damaged":0,"damage":0.026888604353393086},"model":"item/custom/valise"},
 	{"predicate":{"damaged":0,"damage":0.027528809218950064},"model":"item/custom/Bannière_4_maisons"},
-	{"predicate":{"damaged":0,"damage":0.02816901408450704},"model":"item/custom/"},
+	{"predicate":{"damaged":0,"damage":0.02816901408450704},"model":"item/custom/Firebolt"},
 	{"predicate":{"damaged":0,"damage":0.028809218950064018},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.029449423815620997},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.030089628681177975},"model":"item/custom/"},
