@@ -1,9 +1,48 @@
 {
-    "__comment": "JimStoneCraft - 2021",
-    "parent": "minecraft:block/stairs",
-    "textures": {
-        "bottom": "minecraft:block/waxed_cut_copper",
-        "top": "minecraft:block/waxed_cut_copper",
-        "side": "minecraft:block/waxed_cut_copper"
+    "variants": {
+        "facing=east,half=bottom,shape=straight":  { "model": "block/lapisdemon/bonus/mushroomblocks/024" },
+        "facing=west,half=bottom,shape=straight":  { "model": "block/lapisdemon/bonus/mushroomblocks/024", "y": 180, "uvlock": false },
+        "facing=south,half=bottom,shape=straight": { "model": "block/lapisdemon/bonus/mushroomblocks/024", "y": 90, "uvlock": false },
+        "facing=north,half=bottom,shape=straight": { "model": "block/lapisdemon/bonus/mushroomblocks/024", "y": 270, "uvlock": false },
+		
+        "facing=east,half=bottom,shape=outer_right":  { "model": "block/lapisdemon/bonus/mushroomblocks/025" },
+        "facing=west,half=bottom,shape=outer_right":  { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 180, "uvlock": false },
+        "facing=south,half=bottom,shape=outer_right": { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 90, "uvlock": false },
+        "facing=north,half=bottom,shape=outer_right": { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 270, "uvlock": false },
+        "facing=east,half=bottom,shape=outer_left":  { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 270, "uvlock": false },
+        "facing=west,half=bottom,shape=outer_left":  { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 90, "uvlock": false },
+        "facing=south,half=bottom,shape=outer_left": { "model": "block/lapisdemon/bonus/mushroomblocks/025" },
+        "facing=north,half=bottom,shape=outer_left": { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 180, "uvlock": false },
+        "facing=east,half=bottom,shape=inner_right":  { "model": "block/lapisdemon/bonus/mushroomblocks/025" },
+        "facing=west,half=bottom,shape=inner_right":  { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 180, "uvlock": false },
+        "facing=south,half=bottom,shape=inner_right": { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 90, "uvlock": false },
+        "facing=north,half=bottom,shape=inner_right": { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 270, "uvlock": false },
+        "facing=east,half=bottom,shape=inner_left":  { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 270, "uvlock": false },
+        "facing=west,half=bottom,shape=inner_left":  { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 90, "uvlock": false },
+        "facing=south,half=bottom,shape=inner_left": { "model": "block/lapisdemon/bonus/mushroomblocks/025" },
+        "facing=north,half=bottom,shape=inner_left": { "model": "block/lapisdemon/bonus/mushroomblocks/025", "y": 180, "uvlock": false },
+		
+        "facing=east,half=top,shape=straight":  { "model": "block/table_legless", "uvlock": false },
+        "facing=west,half=top,shape=straight":  { "model": "block/table_legless", "uvlock": false },
+        "facing=south,half=top,shape=straight": { "model": "block/table_legless", "uvlock": false },
+        "facing=north,half=top,shape=straight": { "model": "block/table_legless_flipped", "uvlock": false },
+		
+        "facing=east,half=top,shape=outer_right":  { "model": "block/table_end_flipped2", "uvlock": false },
+        "facing=west,half=top,shape=outer_right":  { "model": "block/table_end", "uvlock": false },
+        "facing=south,half=top,shape=outer_right": { "model": "block/table_end_flipped", "uvlock": false },
+        "facing=north,half=top,shape=outer_right": { "model": "block/table_end_flipped", "y": 180, "uvlock": false },
+        "facing=east,half=top,shape=outer_left":  { "model": "block/table_end_flipped2", "uvlock": false },
+        "facing=west,half=top,shape=outer_left":  { "model": "block/table_end", "uvlock": false },
+        "facing=south,half=top,shape=outer_left": { "model": "block/table_end_flipped", "uvlock": false },
+        "facing=north,half=top,shape=outer_left": { "model": "block/table_end_flipped", "y": 180, "uvlock": false },
+		
+        "facing=east,half=top,shape=inner_right":  { "model": "block/table_leg1", "uvlock": false },
+        "facing=west,half=top,shape=inner_right":  { "model": "block/table_leg3", "y": 180, "uvlock": false },
+        "facing=south,half=top,shape=inner_right": { "model": "block/table", "y": 180, "uvlock": false },
+        "facing=north,half=top,shape=inner_right": { "model": "block/table", "uvlock": false },
+        "facing=east,half=top,shape=inner_left":  { "model": "block/table2", "uvlock": false },
+        "facing=west,half=top,shape=inner_left":  { "model": "block/table_leg2", "y": 180, "uvlock": false },
+        "facing=south,half=top,shape=inner_left": { "model": "block/table_leg1", "uvlock": false },
+        "facing=north,half=top,shape=inner_left": { "model": "block/table_flipped", "y": 180, "uvlock": false }
     }
 }

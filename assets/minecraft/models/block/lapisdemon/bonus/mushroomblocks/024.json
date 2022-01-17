@@ -3,38 +3,38 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/lapisdemon/bonus/mushroomblocks/sofa_vintage_black",
-		"particle": "cocricotmod:blocks/stone_color_black"
+		"particle": "minecraft:block/black_wool"
 	},
 	"elements": [
 		{
-			"from": [4.5, 0, 0],
-			"to": [20, 8.5, 16],
+			"from": [-4, 0, 1.5],
+			"to": [11.5, 8.5, 17.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.16667, 8.75]},
 			"faces": {
-				"east": {"uv": [10, 16, 6, 13.875], "rotation": 180, "texture": "#0"},
-				"up": {"uv": [10, 13.75, 6, 10], "rotation": 90, "texture": "#0"},
-				"down": {"uv": [16, 16, 15.875, 15.875], "rotation": 270, "texture": "#0"}
+				"west": {"uv": [10, 16, 6, 13.875], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [10, 13.75, 6, 10], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [16, 16, 15.875, 15.875], "rotation": 90, "texture": "#0"}
 			}
 		},
 		{
-			"from": [0, 0, 0],
-			"to": [4.5, 11.5, 16],
+			"from": [11.5, 0, 1.5],
+			"to": [16, 11.5, 17.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.16667, 8.75]},
 			"faces": {
-				"east": {"uv": [6, 9.375, 10, 11.875], "texture": "#0"},
-				"west": {"uv": [1.75, 4.375, 5.75, 1.5], "rotation": 180, "texture": "#0"},
-				"down": {"uv": [16, 16, 15.875, 15.875], "rotation": 270, "texture": "#0", "cullface": "down"}
+				"east": {"uv": [1.75, 4.375, 5.75, 1.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [6, 9.375, 10, 11.875], "texture": "#0"},
+				"down": {"uv": [16, 16, 15.875, 15.875], "rotation": 90, "texture": "#0", "cullface": "down"}
 			}
 		},
 		{
-			"from": [-2, 11.5, 0],
-			"to": [4.5, 17.5, 16],
+			"from": [11.5, 11.5, 1.5],
+			"to": [18, 17.5, 17.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.16667, 8.75]},
 			"faces": {
-				"east": {"uv": [6, 7.875, 10, 9.375], "texture": "#0"},
-				"west": {"uv": [6, 7.625, 10, 6.125], "rotation": 180, "texture": "#0"},
-				"up": {"uv": [6, 6.25, 10, 4.625], "rotation": 270, "texture": "#0", "cullface": "up"},
-				"down": {"uv": [12.25, 4.625, 14.5, 6.25], "rotation": 90, "texture": "#0"}
+				"east": {"uv": [6, 7.625, 10, 6.125], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [6, 7.875, 10, 9.375], "texture": "#0"},
+				"up": {"uv": [6, 6.25, 10, 4.625], "rotation": 90, "texture": "#0", "cullface": "up"},
+				"down": {"uv": [12.25, 4.625, 14.5, 6.25], "rotation": 270, "texture": "#0"}
 			}
 		}
 	]
