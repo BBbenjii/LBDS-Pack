@@ -12,7 +12,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.16667, 8.75]},
 			"faces": {
 				"west": {"uv": [10, 16, 6, 13.875], "rotation": 180, "texture": "#0"},
-				"up": {"uv": [10, 13.75, 6, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [12.25, 13.875, 10, 10.125], "rotation": 270, "texture": "#0"},
 				"down": {"uv": [16, 16, 15.875, 15.875], "rotation": 90, "texture": "#0"}
 			}
 		},
