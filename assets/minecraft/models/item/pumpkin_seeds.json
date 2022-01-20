@@ -1,1 +1,6 @@
-{"__comment":"© Droobledore LLC","parent":"item/custom/candybeans","textures":{"layer0":"items/custom/beans_container"}}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pumpkin_seeds"
+  }
+}

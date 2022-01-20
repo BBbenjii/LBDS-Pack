@@ -1,4 +1,6 @@
 {
-    "__comment": "JimStoneCraft - 2016",
-    "parent": "item/custom/bourse"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cyan_dye"
+  }
 }
