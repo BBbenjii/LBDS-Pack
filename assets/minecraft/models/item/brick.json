@@ -4,7 +4,7 @@
       "layer0": "minecraft:item/brick"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 1}, "model": "item/ingrpotions/aconit"},
+      { "predicate": {"custom_model_data": 1}, "model": "item/aconit"},
       { "predicate": {"custom_model_data": 2}, "model": "item/coal"}
     ]
 }
