@@ -4,7 +4,11 @@
       "layer0": "minecraft:item/brick"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 1}, "model": "item/aconit"},
-      { "predicate": {"custom_model_data": 2}, "model": "item/coal"}
-    ]
+	  { "predicate": {"custom_model_data": 1}, "model": "item/achillee_sternutatoire"},
+      { "predicate": {"custom_model_data": 2}, "model": "item/aconit"},
+      { "predicate": {"custom_model_data": 3}, "model": "item/belladone"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/asclepiade_tubereuse"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/calice_de_la_mort"}
+		
+	]
 }
