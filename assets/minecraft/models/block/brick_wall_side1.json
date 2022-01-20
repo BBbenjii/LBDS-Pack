@@ -1,9 +1,0 @@
-{
-    "__comment": "JimStoneCraft - 2019",
-    "parent": "block/custom_template_wall_side",
-    "textures": {
-        "wall": "block/bricks1",
-        "top": "block/bricks_top",
-        "bottom": "block/bricks_bottom"
-    }
-}
