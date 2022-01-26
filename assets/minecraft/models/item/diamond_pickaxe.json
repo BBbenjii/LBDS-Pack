@@ -1,6 +1,6 @@
 {"__comment":"© Droobledore LLC","parent":"item/handheld","textures":{"layer0":"items/diamond_pickaxe"},
 "overrides":[{"predicate":{"damaged":0,"damage":0},"model":"item/custom/battlehammer"},
-{"predicate":{"damaged":0,"damage":0.001280409731114},"model":"item/custom"},
+{"predicate":{"damaged":0,"damage":0.001280409731114},"model":"item/custom/appareil_photo"},
 {"predicate":{"damaged":0,"damage":0.0019206145966709},"model":"item/custom"},
 {"predicate":{"damaged":0,"damage":0.0025608194622279},"model":"item/custom"},
 {"predicate":{"damaged":0,"damage":0.0032010243277849},"model":"item/custom"},
