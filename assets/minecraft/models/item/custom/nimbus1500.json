@@ -2872,12 +2872,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [83.25, 0, 0],
-			"translation": [0, -7.92, 0.38],
+			"translation": [0, -0.67, 0.38],
 			"scale": [2, 2, 2]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [83.25, 0, 0],
-			"translation": [0.687, -7.728, -0.042],
+			"translation": [0.687, -0.728, -0.042],
 			"scale": [2, 2, 2]
 		},
 		"firstperson_righthand": {

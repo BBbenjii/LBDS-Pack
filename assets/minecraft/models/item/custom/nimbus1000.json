@@ -1905,12 +1905,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [83.25, 0, 0],
-			"translation": [0, -7.92, -0.62],
+			"translation": [0, -1.92, 0.13],
 			"scale": [2, 2, 2]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [83.25, 0, 0],
-			"translation": [0.687, -7.728, -0.542],
+			"translation": [0.687, -0.728, 0.208],
 			"scale": [2, 2, 2]
 		},
 		"firstperson_righthand": {

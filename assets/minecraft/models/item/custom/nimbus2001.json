@@ -2646,12 +2646,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [83.25, 0, 0],
-			"translation": [0, -7.92, -1.12],
+			"translation": [0, -6.17, -0.12],
 			"scale": [2, 2, 2]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [83.25, 0, 0],
-			"translation": [0.687, -7.728, -0.292],
+			"translation": [0.687, -6.228, -0.292],
 			"scale": [2, 2, 2]
 		},
 		"firstperson_righthand": {
