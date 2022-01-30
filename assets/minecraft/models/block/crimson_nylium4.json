@@ -1,9 +1,23 @@
 {
-    "__comment": "JimStoneCraft - 2020",
-    "parent": "minecraft:block/cube_bottom_top",
-    "textures": {
-        "bottom": "minecraft:block/netherrack4",
-        "top": "minecraft:block/crimson_nylium",
-        "side": "minecraft:block/crimson_nylium_side4"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "block/netherrack4",
+		"top": "block/crimson_nylium",
+		"side": "block/crimson_nylium_side4"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		}
+	]
 }
