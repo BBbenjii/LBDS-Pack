@@ -1,7 +1,6 @@
 {
-    "__comment": "JimStoneCraft - 2018",
-    "textures": {
-        "particle": "block/particle_chest"
-    }
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/particle_chest"
+	}
 }
-
