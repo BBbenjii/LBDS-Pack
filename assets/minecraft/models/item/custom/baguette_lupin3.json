@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/bee_hive_side",
+		"0": "item/bee_hive_side3",
 		"2": "block/stripped_dark_oak_log",
-		"particle": "block/bee_hive_side"
+		"particle": "item/bee_hive_side3"
 	},
 	"elements": [
 		{

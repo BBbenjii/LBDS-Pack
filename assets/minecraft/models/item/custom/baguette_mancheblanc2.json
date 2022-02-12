@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "item/wand_heroine",
-		"texture": "item/wand_heroine"
+		"particle": "item/wand_heroine2",
+		"texture": "item/wand_heroine2"
 	},
 	"elements": [
 		{
@@ -598,7 +598,6 @@
 			"scale": [1, 1.2, 1]
 		},
 		"fixed": {
-			"translation": [0, 0, -2.25],
 			"scale": [2.5, 2.5, 2.5]
 		}
 	}

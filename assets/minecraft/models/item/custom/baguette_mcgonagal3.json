@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/black_terracotta",
+		"1": "item/black_terracotta3",
 		"2": "block/brown_concrete_powder"
 	},
 	"elements": [

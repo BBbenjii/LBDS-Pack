@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "item/wand_snake",
-		"texture": "item/wand_snake"
+		"particle": "item/wand_snake3",
+		"texture": "item/wand_snake3"
 	},
 	"elements": [
 		{

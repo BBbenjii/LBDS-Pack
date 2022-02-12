@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "item/texture_oliverdubois",
-		"texture": "item/texture_oliverdubois"
+		"particle": "item/black_terracotta3",
+		"texture": "item/black_terracotta3"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/chapeau",
+		"0": "item/chapeau3",
 		"1": "block/or_baguette",
 		"2": "block/blanc_baguette",
-		"particle": "block/chapeau"
+		"particle": "item/chapeau3"
 	},
 	"elements": [
 		{
