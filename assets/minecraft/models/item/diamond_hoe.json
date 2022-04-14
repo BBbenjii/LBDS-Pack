@@ -144,7 +144,7 @@
 	{"predicate":{"damaged":0,"damage":0.09154929577464789},"model":"item/custom/baguette_tinagoldstein"},
 	{"predicate":{"damaged":0,"damage":0.09218950064020487},"model":"item/custom/baguette_gilderoy"},
 	{"predicate":{"damaged":0,"damage":0.09282970550576183},"model":"item/custom/baguette_nicolasflamel"},
-	{"predicate":{"damaged":0,"damage":0.09346991037131881},"model":"item/custom/"},
+	{"predicate":{"damaged":0,"damage":0.09346991037131881},"model":"item/custom/baguette_molly"},
 	{"predicate":{"damaged":0,"damage":0.09411011523687579},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.09475032010243277},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.09539052496798975},"model":"item/custom/"},
