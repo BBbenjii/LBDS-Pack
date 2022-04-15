@@ -73,7 +73,7 @@
 	{"predicate":{"damaged":0,"damage":0.046094750320102434},"model":"item/custom/nimbus2001"},
 	{"predicate":{"damaged":0,"damage":0.046734955185659406},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.047375160051216385},"model":"item/custom/"},
-	{"predicate":{"damaged":0,"damage":0.04801536491677336},"model":"item/custom/"},
+	{"predicate":{"damaged":0,"damage":0.04801536491677336},"model":"item/custom/gallion"},
 	{"predicate":{"damaged":0,"damage":0.04865556978233034},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.04929577464788732},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.0499359795134443},"model":"item/custom/"},
