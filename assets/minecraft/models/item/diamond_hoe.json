@@ -155,7 +155,7 @@
 	{"predicate":{"damaged":0,"damage":0.09859154929577464},"model":"item/custom/baguette_q4"},
 	{"predicate":{"damaged":0,"damage":0.09923175416133162},"model":"item/custom/baguette_pddf"},
 	{"predicate":{"damaged":0,"damage":0.0998719590268886},"model":"item/custom/baguette_loueva"},
-	{"predicate":{"damaged":0,"damage":0.10051216389244558},"model":"item/custom/moon_wand"},
+	{"predicate":{"damaged":0,"damage":0.10051216389244558},"model":"item/custom/moon_wand_2"},
 	{"predicate":{"damaged":0,"damage":0.10115236875800256},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.10179257362355953},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.10243277848911651},"model":"item/custom/"},
