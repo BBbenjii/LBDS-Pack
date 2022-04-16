@@ -151,7 +151,7 @@
 	{"predicate":{"damaged":0,"damage":0.09603072983354673},"model":"item/custom/baguette_choipeaux"},
 	{"predicate":{"damaged":0,"damage":0.0966709346991037},"model":"item/custom/baguette_quelquonque1"},
 	{"predicate":{"damaged":0,"damage":0.09731113956466068},"model":"item/custom/baguette_quelquonque2"},
-	{"predicate":{"damaged":0,"damage":0.09795134443021766},"model":"item/custom/"},
+	{"predicate":{"damaged":0,"damage":0.09795134443021766},"model":"item/custom/baguette_quelquonque3"},
 	{"predicate":{"damaged":0,"damage":0.09859154929577464},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.09923175416133162},"model":"item/custom/"},
 	{"predicate":{"damaged":0,"damage":0.0998719590268886},"model":"item/custom/"},
