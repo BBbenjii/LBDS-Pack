@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/Custom_Texture/plank_whit",
 		"1": "block/Custom_Texture/planks_brown",
-		"2": "block/Custom_Texture/cristal_white",
+		"2": "block/Custom_Texture/cristal_white_e",
 		"particle": "block/Custom_Texture/plank_whit"
 	},
 	"elements": [
@@ -1798,6 +1798,11 @@
 			"rotation": [0, 0, 90],
 			"translation": [0.25, -1.75, 0],
 			"scale": [0.48047, 0.48047, 0.48047]
+		},
+		"gui": {
+			"rotation": [12.88, -40.47, 61.91],
+			"translation": [-0.25, 0.5, 0],
+			"scale": [0.46484, 0.46484, 0.46484]
 		},
 		"head": {
 			"scale": [0, 0, 0]
