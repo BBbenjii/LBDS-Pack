@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "©Le Banquet du Sorcier  /   Made in France by TheFireSkorpion",
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/bookshelf",
@@ -1094,9 +1094,7 @@
 				"north": {"uv": [5.5, 1.5, 10, 5.5], "texture": "#3"},
 				"east": {"uv": [5.5, 1.5, 10, 5.5], "texture": "#3"},
 				"south": {"uv": [5.5, 1.5, 10, 5.5], "texture": "#3"},
-				"west": {"uv": [5.5, 1.5, 10, 5.5], "texture": "#3"},
-				"up": {"uv": [5.5, 1.5, 10, 5.5], "texture": "#3"},
-				"down": {"uv": [5.5, 1.5, 10, 5.5], "texture": "#3"}
+				"west": {"uv": [5.5, 1.5, 10, 5.5], "texture": "#3"}
 			}
 		},
 		{
