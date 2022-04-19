@@ -1,0 +1,35 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/glow_berries"
+    },
+    "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/custom/nouritures_et_boissons/bertie_crochue_boite_ouverte_remplie"},
+      { "predicate": {"custom_model_data": 2}, "model": "item/aconit"},
+      { "predicate": {"custom_model_data": 3}, "model": "item/actee_en_epi"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/aile_de_billywig"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/aile_de_fee"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/alchemille"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/algue"},
+	  { "predicate": {"custom_model_data": 8}, "model": "item/algue_sechee"},
+	  { "predicate": {"custom_model_data": 9}, "model": "item/alihotsy"},
+	  { "predicate": {"custom_model_data": 10}, "model": "item/apocyn"},
+	  { "predicate": {"custom_model_data": 11}, "model": "item/patte_arreignee"},
+	  { "predicate": {"custom_model_data": 12}, "model": "item/armoise"},
+	  { "predicate": {"custom_model_data": 13}, "model": "item/asclepiade_tubereuse"},
+	  { "predicate": {"custom_model_data": 14}, "model": "item/asphodele"},
+	  { "predicate": {"custom_model_data": 15}, "model": "item/baies_de_gui"},
+	  { "predicate": {"custom_model_data": 16}, "model": "item/belladone"},
+	  { "predicate": {"custom_model_data": 17}, "model": "item/bezoard"},
+	  { "predicate": {"custom_model_data": 18}, "model": "item/cafard"},
+	  { "predicate": {"custom_model_data": 19}, "model": "item/calice_de_la_mort"},
+	  { "predicate": {"custom_model_data": 20}, "model": "item/cervelle_de_paresseux"},
+	  { "predicate": {"custom_model_data": 21}, "model": "item/champignon_veneneux_sauteur"},
+	  { "predicate": {"custom_model_data": 22}, "model": "item/chiendent_etoile"},
+	  { "predicate": {"custom_model_data": 23}, "model": "item/chou_mordeur_de_chine"},
+	  { "predicate": {"custom_model_data": 24}, "model": "item/chrysope"},
+	  { "predicate": {"custom_model_data": 25}, "model": "item/cloporte"}
+	]
+}{
+
+}
