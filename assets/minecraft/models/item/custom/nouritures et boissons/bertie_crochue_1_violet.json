@@ -1,8 +1,8 @@
 {
 	"credit": "©LBDS /      Made in france by Mushroom",
 	"textures": {
-		"0": "block/lime_terracotta",
-		"particle": "block/lime_terracotta"
+		"0": "block/purple_terracotta",
+		"particle": "block/purple_terracotta"
 	},
 	"elements": [
 		{
@@ -64,11 +64,21 @@
 			"faces": {
 				"north": {"uv": [11, 9, 13.5, 11.5], "texture": "#0"},
 				"east": {"uv": [12, 1, 14.5, 3.5], "texture": "#0"},
-				"south": {"uv": [3, 3, 5.5, 5.5], "texture": "#0"},
+				"south": {"uv": [4, 4, 6.5, 6.5], "texture": "#0"},
 				"west": {"uv": [1, 8, 3.5, 10.5], "texture": "#0"},
 				"up": {"uv": [7, 9.5, 9.5, 12], "texture": "#0"},
 				"down": {"uv": [8.5, 5, 11, 7.5], "texture": "#0"}
 			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7.5, 0, 7.5],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0, 1, 2, 3, 4]
 		}
 	]
 }

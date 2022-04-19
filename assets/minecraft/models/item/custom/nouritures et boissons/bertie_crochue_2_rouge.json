@@ -1,0 +1,48 @@
+{
+	"credit": "©LBDS /      Made in france by Mushroom",
+	"textures": {
+		"0": "block/red_terracotta",
+		"particle": "block/red_terracotta"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 1, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [11.5, 7.5, 14, 10], "texture": "#0"},
+				"east": {"uv": [3.5, 2, 6, 4.5], "texture": "#0"},
+				"south": {"uv": [9, 11, 11.5, 13.5], "texture": "#0"},
+				"west": {"uv": [0, 10.5, 2.5, 13], "texture": "#0"},
+				"up": {"uv": [9, 4, 11.5, 6.5], "texture": "#0"},
+				"down": {"uv": [4.5, 7, 7, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.91406, 0.04688, 8.15625],
+			"to": [8.79688, 0.73828, 8.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [12, 7, 14.5, 9.5], "texture": "#0"},
+				"east": {"uv": [4, 11.5, 6.5, 14], "texture": "#0"},
+				"south": {"uv": [3.5, 1, 6, 3.5], "texture": "#0"},
+				"west": {"uv": [8.5, 3, 11, 5.5], "texture": "#0"},
+				"up": {"uv": [8.5, 9, 11, 11.5], "texture": "#0"},
+				"down": {"uv": [0.5, 6, 3, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.22656, 0.56641, 7.28906],
+			"to": [7.89453, 1.13672, 7.89844],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [12, 7, 14.5, 9.5], "texture": "#0"},
+				"east": {"uv": [4, 11.5, 6.5, 14], "texture": "#0"},
+				"south": {"uv": [3.5, 1, 6, 3.5], "texture": "#0"},
+				"west": {"uv": [8.5, 3, 11, 5.5], "texture": "#0"},
+				"up": {"uv": [8.5, 9, 11, 11.5], "texture": "#0"},
+				"down": {"uv": [0.5, 6, 3, 8.5], "texture": "#0"}
+			}
+		}
+	]
+}
