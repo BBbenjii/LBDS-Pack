@@ -4,7 +4,7 @@
 		"0": "block/horloge_4",
 		"3": "block/horloge_1",
 		"4": "item/horloge_5",
-		"6": "block/aiguilles-poire",
+		"6": "item/aiguilles-poire",
 		"7": "item/horloge_4",
 		"particle": "block/horloge_4"
 	},
