@@ -4,7 +4,6 @@
 		"0": "block/horloge_4",
 		"3": "block/horloge_1",
 		"4": "item/horloge_5",
-		"6": "item/aiguilles-poire",
 		"7": "item/horloge_4",
 		"particle": "block/horloge_4"
 	},
@@ -1266,22 +1265,6 @@
 				"up": {"uv": [0.5, 11.72222, 1.05556, 12.5], "rotation": 270, "texture": "#3"},
 				"down": {"uv": [0.5, 11.72222, 1.05556, 12.5], "rotation": 270, "texture": "#3"}
 			}
-		},
-		{
-			"from": [6.425, 2.025, 4.7],
-			"to": [9.675, 26.675, 4.7],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [8.025, 8.775, 4.7]},
-			"faces": {
-				"north": {"uv": [7.08333, 3.875, 5.5625, 14.83333], "texture": "#6"}
-			}
-		},
-		{
-			"from": [3.075, 6.1, 4.5],
-			"to": [21.875, 11.25, 4.5],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [8.025, 8.775, 4.7]},
-			"faces": {
-				"north": {"uv": [9.64583, 5.3125, 7.25, 14.39583], "rotation": 270, "texture": "#6"}
-			}
 		}
 	],
 	"display": {
@@ -1402,7 +1385,7 @@
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [93, 94]
+			"children": []
 		}
 	]
 }
