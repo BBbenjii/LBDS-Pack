@@ -1,5 +1,5 @@
 {
-	"credit": "©LBDS /      Made in france by Mushroom",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/Custom_Texture/19111008182825088016504042",
 		"1": "block/yellow_terracotta",
@@ -1148,11 +1148,11 @@
 			"scale": [0.81836, 0.81836, 0.81836]
 		},
 		"firstperson_righthand": {
-			"translation": [3.25, 1, 0],
+			"translation": [1.25, 1.25, 0],
 			"scale": [0.81836, 0.81836, 0.81836]
 		},
 		"firstperson_lefthand": {
-			"translation": [3.25, 1, 0],
+			"translation": [1.25, 2, 0],
 			"scale": [0.81836, 0.81836, 0.81836]
 		},
 		"ground": {
@@ -1185,39 +1185,29 @@
 			"name": "group",
 			"origin": [7.5, 0, 7.5],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [9, 10, 11]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [12, 13, 14]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [15, 16, 17, 18]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [19, 20, 21, 22]
 				}
 			]
@@ -1226,55 +1216,41 @@
 			"name": "group",
 			"origin": [7.5, 0, 7.5],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [23, 24, 25]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [26, 27, 28]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [29, 30, 31, 32]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [33, 34, 35, 36]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": []
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [37, 38, 39, 40]
 				}
 			]
@@ -1283,47 +1259,35 @@
 			"name": "group",
 			"origin": [7.5, 0, 7.5],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [41, 42, 43]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [44, 45, 46]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [47, 48, 49, 50]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [51, 52, 53, 54]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [55, 56, 57, 58]
 				}
 			]
@@ -1332,71 +1296,53 @@
 			"name": "group",
 			"origin": [7.5, 0, 7.5],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [59, 60, 61]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [62, 63, 64]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [65, 66, 67]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [68, 69, 70, 71]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [72, 73, 74, 75]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [76, 77, 78]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [79, 80, 81, 82]
 				},
 				{
 					"name": "group",
 					"origin": [7.5, 0, 7.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [83, 84, 85, 86]
 				}
 			]

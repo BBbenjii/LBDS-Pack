@@ -1,5 +1,5 @@
 {
-	"credit": "©LBDS /      Made in france by Mushroom",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/Custom_Texture/19111008182825088016504042",
 		"particle": "block/Custom_Texture/19111008182825088016504042"
@@ -86,11 +86,11 @@
 			"scale": [0.81836, 0.81836, 0.81836]
 		},
 		"firstperson_righthand": {
-			"translation": [3.25, 1, 0],
+			"translation": [1, 6, 0],
 			"scale": [0.81836, 0.81836, 0.81836]
 		},
 		"firstperson_lefthand": {
-			"translation": [3.25, 1, 0],
+			"translation": [1, 6.5, 0],
 			"scale": [0.81836, 0.81836, 0.81836]
 		},
 		"ground": {
