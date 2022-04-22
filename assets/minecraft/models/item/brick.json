@@ -28,6 +28,7 @@
 	  { "predicate": {"custom_model_data": 22}, "model": "item/custom/ingredientspotions/chiendent_etoile"},
 	  { "predicate": {"custom_model_data": 23}, "model": "item/custom/ingredientspotions/chou_mordeur_de_chine"},
 	  { "predicate": {"custom_model_data": 24}, "model": "item/custom/ingredientspotions/chrysope"},
-	  { "predicate": {"custom_model_data": 25}, "model": "item/custom/ingredientspotions/cloporte"}
+	  { "predicate": {"custom_model_data": 25}, "model": "item/custom/ingredientspotions/cloporte"},
+	  { "predicate": {"custom_model_data": 25}, "model": "item/custom/ingredientspotions/fiol_d'eau_du_fleuve_lethe"}
 	]
 }
