@@ -1,8 +1,8 @@
 {
 	"credit": "©LBDS /      Made in france by Mushroom",
 	"textures": {
-		"0": "block/custom/rideau",
-		"particle": "block/custom/rideau"
+		"0": "block/custom/rideau_serdaigle",
+		"particle": "block/custom/rideau_serdaigle"
 	},
 	"elements": [
 		{

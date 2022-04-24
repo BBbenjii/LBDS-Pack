@@ -4,6 +4,9 @@
       "layer0": "minecraft:item/cyan_banner"
     },
     "overrides": [
-	  {"predicate": {"custom_model_data": 1}, "model": "item/custom/rideau"}
+	  {"predicate": {"custom_model_data": 1}, "model": "item/custom/rideau_serdaigle_ouvert_gauche"},
+	  {"predicate": {"custom_model_data": 2}, "model": "item/custom/rideau_serdaigle_ouvert_droite"},
+	  {"predicate": {"custom_model_data": 3}, "model": "item/custom/rideau_serdaigle_fermer_gauche"},
+	  {"predicate": {"custom_model_data": 4}, "model": "item/custom/rideau_serdaigle_fermer_droite"}
 	]
 }

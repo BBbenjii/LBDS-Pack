@@ -1,0 +1,67 @@
+{
+	"credit": "©LBDS /      Made in france by Mushroom",
+	"textures": {
+		"0": "block/custom/rideau_serdaigle",
+		"particle": "block/custom/rideau_serdaigle"
+	},
+	"elements": [
+		{
+			"from": [7.5, -16, 21],
+			"to": [8.5, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-7.5, 0, 0]},
+			"faces": {
+				"north": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"east": {"uv": [9.25, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"west": {"uv": [6.75, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"down": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, -6, 20],
+			"to": [8.5, 32, 21],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-7.5, 0, 0]},
+			"faces": {
+				"north": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"east": {"uv": [10, 0, 12, 16], "texture": "#0"},
+				"south": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"west": {"uv": [10, 0, 12, 16], "texture": "#0"},
+				"up": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"down": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, -16, 20],
+			"to": [8.5, -11, 21],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-7.5, 0, 0]},
+			"faces": {
+				"north": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"east": {"uv": [10, 0, 12, 16], "texture": "#0"},
+				"south": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"west": {"uv": [10, 0, 12, 16], "texture": "#0"},
+				"up": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"down": {"uv": [3.5, 0.5, 4.5, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-7.75, 0, -23.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-7.75, 0, -23.25]
+		},
+		"firstperson_righthand": {
+			"translation": [-2, -8.75, -23.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [-2, -8.75, -23.25]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [-80, -31.75, -0.75],
+			"scale": [4, 4, 4]
+		}
+	}
+}
