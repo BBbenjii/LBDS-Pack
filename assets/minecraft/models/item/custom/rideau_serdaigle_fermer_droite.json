@@ -1,5 +1,5 @@
 {
-	"credit": "©LBDS /      Made in france by Mushroom",
+	"credit": "©Slife /   Made in France by TheFireSkorpion",
 	"textures": {
 		"0": "block/custom/rideau_serdaigle",
 		"particle": "block/custom/rideau_serdaigle"
@@ -53,15 +53,30 @@
 			"translation": [-7.75, 0, -23.25]
 		},
 		"firstperson_righthand": {
-			"translation": [-2, -8.75, -23.25]
+			"translation": [16, -2, -23.25],
+			"scale": [0.53711, 0.53711, 0.53711]
 		},
 		"firstperson_lefthand": {
-			"translation": [-2, -8.75, -23.25]
+			"translation": [16, -2, -23.25],
+			"scale": [0.53711, 0.53711, 0.53711]
+		},
+		"ground": {
+			"scale": [0.14, 0.14, 0.14]
+		},
+		"gui": {
+			"rotation": [-30.23, -59.03, -37.03],
+			"translation": [3.75, -1, 0],
+			"scale": [0.29688, 0.29688, 0.29688]
 		},
 		"head": {
 			"rotation": [0, 90, 0],
-			"translation": [-80, -31.75, -0.75],
-			"scale": [4, 4, 4]
+			"translation": [-3.75, 7.5, -0.75],
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-1.75, 1, -2],
+			"scale": [0.22852, 0.22852, 0.22852]
 		}
 	}
 }
