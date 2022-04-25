@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/stairs",
+	"textures": {
+		"bottom": "block/green_terracotta",
+		"top": "block/green_terracotta",
+		"side": "block/green_terracotta"
+	}
+}
