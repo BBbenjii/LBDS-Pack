@@ -4,31 +4,6 @@
       "layer0": "minecraft:item/brick"
     },
     "overrides": [
-	  { "predicate": {"custom_model_data": 1}, "model": "item/custom/ingredientspotions/achillee_sternutatoire"},
-      { "predicate": {"custom_model_data": 2}, "model": "item/custom/ingredientspotions/aconit"},
-      { "predicate": {"custom_model_data": 3}, "model": "item/custom/ingredientspotions/actee_en_epi"},
-	  { "predicate": {"custom_model_data": 4}, "model": "item/custom/ingredientspotions/aile_de_billywig"},
-	  { "predicate": {"custom_model_data": 5}, "model": "item/custom/ingredientspotions/aile_de_fee"},
-	  { "predicate": {"custom_model_data": 6}, "model": "item/custom/ingredientspotions/alchemille"},
-	  { "predicate": {"custom_model_data": 7}, "model": "item/custom/ingredientspotions/algue"},
-	  { "predicate": {"custom_model_data": 8}, "model": "item/custom/ingredientspotions/algue_sechee"},
-	  { "predicate": {"custom_model_data": 9}, "model": "item/custom/ingredientspotions/alihotsy"},
-	  { "predicate": {"custom_model_data": 10}, "model": "item/custom/ingredientspotions/apocyn"},
-	  { "predicate": {"custom_model_data": 11}, "model": "item/custom/ingredientspotions/patte_arreignee"},
-	  { "predicate": {"custom_model_data": 12}, "model": "item/custom/ingredientspotions/armoise"},
-	  { "predicate": {"custom_model_data": 13}, "model": "item/custom/ingredientspotions/asclepiade_tubereuse"},
-	  { "predicate": {"custom_model_data": 14}, "model": "item/custom/ingredientspotions/asphodele"},
-	  { "predicate": {"custom_model_data": 15}, "model": "item/custom/ingredientspotions/baies_de_gui"},
-	  { "predicate": {"custom_model_data": 16}, "model": "item/custom/ingredientspotions/belladone"},
-	  { "predicate": {"custom_model_data": 17}, "model": "item/custom/ingredientspotions/bezoard"},
-	  { "predicate": {"custom_model_data": 18}, "model": "item/custom/ingredientspotions/cafard"},
-	  { "predicate": {"custom_model_data": 19}, "model": "item/custom/ingredientspotions/calice_de_la_mort"},
-	  { "predicate": {"custom_model_data": 20}, "model": "item/custom/ingredientspotions/cervelle_de_paresseux"},
-	  { "predicate": {"custom_model_data": 21}, "model": "item/custom/ingredientspotions/champignon_veneneux_sauteur"},
-	  { "predicate": {"custom_model_data": 22}, "model": "item/custom/ingredientspotions/chiendent_etoile"},
-	  { "predicate": {"custom_model_data": 23}, "model": "item/custom/ingredientspotions/chou_mordeur_de_chine"},
-	  { "predicate": {"custom_model_data": 24}, "model": "item/custom/ingredientspotions/chrysope"},
-	  { "predicate": {"custom_model_data": 25}, "model": "item/custom/ingredientspotions/cloporte"},
-	  { "predicate": {"custom_model_data": 25}, "model": "item/custom/ingredientspotions/fiol_d'eau_du_fleuve_lethe"}
+	  { "predicate": {"custom_model_data": 1}, "model": "item/custom/"}
 	]
 }
