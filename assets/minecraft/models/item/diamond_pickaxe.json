@@ -198,7 +198,7 @@
 {"predicate":{"damaged":0,"damage":0.12612035851472},"model":"item/custom/"},
 {"predicate":{"damaged":0,"damage":0.12676056338028},"model":"item/custom/"},
 {"predicate":{"damaged":0,"damage":0.12740076824584},"model":"item/custom/build/statue/statue_architecte"},
-{"predicate":{"damaged":0,"damage":0.1280409731114},"model":"item/custom/build/statue/statue_cour_meta"},
+{"predicate":{"damaged":0,"damage":0.1280409731114},"model":"item/custom/build/statue/statue_cours_meta"},
 {"predicate":{"damaged":0,"damage":0.12868117797695},"model":"item/custom/build/statue/statue_armure"},
 {"predicate":{"damaged":0,"damage":0.12932138284251},"model":"item/custom/build/statue/gargouille_aigle"},
 {"predicate":{"damaged":0,"damage":0.12996158770807},"model":"item/custom/build/statue/gargouille_aigle2"},
