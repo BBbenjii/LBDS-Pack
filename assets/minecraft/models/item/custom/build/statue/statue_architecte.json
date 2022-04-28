@@ -1,11 +1,11 @@
 {
 	"credit": "Made By Azuri",
 	"textures": {
-		"0": "doré",
-		"1": "doré barbe",
-		"2": "doré visage",
-		"3": "doré dessin",
-		"4": "doré fenetre",
+		"0": "block/custom/doré",
+		"1": "block/custom/doré barbe",
+		"2": "block/custom/doré visage",
+		"3": "block/custom/doré dessin",
+		"4": "block/custom/doré fenetre",
 		"particle": "doré"
 	},
 	"elements": [
