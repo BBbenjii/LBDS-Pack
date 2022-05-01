@@ -1,6 +1,12 @@
 {
-  "parent": "item/generated",
-  "textures": {
-      "layer0": "item/achillee_sternutatoire"
-  }
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/achillee_sternutatoire"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 2.25, 0]
+		}
+	}
 }
