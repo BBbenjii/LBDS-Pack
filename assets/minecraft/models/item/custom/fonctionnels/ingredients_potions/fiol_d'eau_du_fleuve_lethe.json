@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "©LBDS /   Made in France by TheFireSkorpion",
 	"textures": {
 		"0": "block/Custom_Texture/unkddnown",
 		"1": "block/Custom_Texture/texture_1",
@@ -574,6 +574,46 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -35, 0],
+			"translation": [0, 1.75, 0],
+			"scale": [0.20898, 0.20898, 0.20898]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -35, 0],
+			"translation": [0, 1.75, 0],
+			"scale": [0.20898, 0.20898, 0.20898]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -35, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [0.20898, 0.20898, 0.20898]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -35, 0],
+			"translation": [1.5, 4, 0],
+			"scale": [0.20898, 0.20898, 0.20898]
+		},
+		"ground": {
+			"translation": [0, 5, 0],
+			"scale": [0.37305, 0.37305, 0.37305]
+		},
+		"gui": {
+			"rotation": [-47.43, -73.72, -55.56],
+			"translation": [0, 2.5, 0],
+			"scale": [0.37305, 0.37305, 0.37305]
+		},
+		"head": {
+			"translation": [0, 13.25, 0],
+			"scale": [0.37305, 0.37305, 0.37305]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [-0.75, 0, -13.5],
+			"scale": [0.60547, 0.60547, 0.60547]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
