@@ -1,11 +1,11 @@
 {
-	"credit": "©Slife /   Made in France by TheFireSkorpion",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "unkddnown",
+		"0": "block/Custom_Texture/unkddnown",
 		"1": "block/Custom_Texture/texture_1",
-		"2": "unknowdddddn",
+		"2": "block/Custom_Texture/unknowdddddn",
 		"3": "block/mushroom_block_inside",
-		"particle": "unkddnown"
+		"particle": "block/Custom_Texture/unkddnown"
 	},
 	"elements": [
 		{
