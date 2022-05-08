@@ -206,7 +206,7 @@
 {"predicate":{"damaged":0,"damage":0.13124199743918},"model":"item/custom/build/statues/gargouille_cochon"},
 {"predicate":{"damaged":0,"damage":0.13188220230474},"model":"item/custom/build/statues/gargouille_ours"},
 {"predicate":{"damaged":0,"damage":0.13252240717029},"model":"item/custom/build/statues/gargouille_serpent"},
-{"predicate":{"damaged":0,"damage":0.13316261203585},"model":"item/custom/build/statues/"},
+{"predicate":{"damaged":0,"damage":0.13316261203585},"model":"item/custom/build/statues/gargouille_lion"},
 {"predicate":{"damaged":0,"damage":0.13380281690141},"model":"item/custom/"},
 {"predicate":{"damaged":0,"damage":0.13444302176697},"model":"item/custom/"},
 {"predicate":{"damaged":0,"damage":0.13508322663252},"model":"item/custom/"},

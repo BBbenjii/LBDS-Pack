@@ -1,8 +1,8 @@
 {
-    "__comment": "JimStoneCraft - 2020",
-    "parent": "minecraft:block/custom_template_trapdoor_top",
-    "textures": {
-        "texture": "minecraft:block/warped_trapdoor",
-        "edge": "minecraft:block/warped_trapdoor_edge"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/custom_template_trapdoor_top",
+	"textures": {
+		"texture": "block/smooth_stone",
+		"edge": "block/smooth_stone"
+	}
 }
