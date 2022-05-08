@@ -2,8 +2,8 @@
     "__comment": "JimStoneCraft - 2020",
     "parent": "minecraft:block/custom_template_fence_side",
     "textures": {
-        "texture": "minecraft:block/warped_fence",
-        "top": "minecraft:block/warped_fence_top",
-        "bottom": "minecraft:block/warped_fence_bottom"
+        "texture": "minecraft:block/Custom_Texture/smooth_stone_dark",
+        "top": "minecraft:block/Custom_Texture/smooth_stone_dark",
+        "bottom": "minecraft:block/Custom_Texture/smooth_stone_dark"
     }
 }
