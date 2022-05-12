@@ -2,6 +2,6 @@
     "__comment": "JimStoneCraft - 2018",
     "parent": "block/flower_pot_cross",
     "textures": {
-        "plant": "block/birch_sapling"
+        "plant": "block/mandragore"
     }
 }

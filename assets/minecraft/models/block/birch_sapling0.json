@@ -1,6 +1,6 @@
 {
     "__comment": "JimStoneCraft - 2019",
-    "parent": "block/cross",
+    "parent": "block/mandragore",
     "textures": {
         "cross": "block/birch_sapling0"
     }
