@@ -68,7 +68,7 @@
 			{"predicate":{"damaged":0,"damage":0.04353393085787452},"model":"item/custom/build/rideau_serdaigle_fermer_droite"},
 			{"predicate":{"damaged":0,"damage":0.0441741357234315},"model":"item/custom/build/Rideau_diagonale"},
 			{"predicate":{"damaged":0,"damage":0.04481434058898848},"model":"item/custom/build/Rideau_droit"},
-			{"predicate":{"damaged":0,"damage":0.045454545454545456},"model":"item/custom/build/"},
+			{"predicate":{"damaged":0,"damage":0.045454545454545456},"model":"item/custom/build/Roue"},
 			{"predicate":{"damaged":0,"damage":0.046094750320102434},"model":"item/custom/build/"},
 			{"predicate":{"damaged":0,"damage":0.046734955185659406},"model":"item/custom/build/"},
 			{"predicate":{"damaged":0,"damage":0.047375160051216385},"model":"item/custom/build/"},
