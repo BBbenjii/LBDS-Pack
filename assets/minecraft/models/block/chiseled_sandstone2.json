@@ -2,7 +2,7 @@
     "__comment": "JimStoneCraft - 2018",
     "parent": "block/cube_column",
     "textures": {
-        "end": "block/chiseled_sandstone2",
-        "side": "block/chiseled_sandstone2"
+        "end": "block/chiseled_sandstone",
+        "side": "block/chiseled_sandstone"
     }
 }

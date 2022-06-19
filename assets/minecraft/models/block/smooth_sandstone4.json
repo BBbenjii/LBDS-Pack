@@ -2,6 +2,6 @@
     "__comment": "JimStoneCraft - 2018",
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/sandstone_top4"
+        "all": "block/sandstone_top"
     }
 }
