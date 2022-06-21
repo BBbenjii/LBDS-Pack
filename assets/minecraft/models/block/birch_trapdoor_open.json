@@ -2,7 +2,7 @@
     "__comment": "JimStoneCraft - 2018",
     "parent": "block/custom_trapdoor_open",
     "textures": {
-        "texture": "block/birch_trapdoor",
-        "edge": "block/birch_trapdoor_edge"
+        "texture": "block/purpur_pillar_top",
+        "edge": "block/purpur_pillar_top"
     }
 }

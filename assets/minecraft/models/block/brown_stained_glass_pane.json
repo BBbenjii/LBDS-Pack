@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "minecraft:block/brown_stained_glass_pane",
+    "textures": {
+        "top": "minecraft:block/purpur_pillar_top",
+        "bottom": "minecraft:block/purpur_pillar_top",
+        "side": "minecraft:block/purpur_pillar_top"
+    }
+}

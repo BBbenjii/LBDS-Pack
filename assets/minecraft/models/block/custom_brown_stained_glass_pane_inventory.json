@@ -2,7 +2,7 @@
     "__comment": "JimStoneCraft - 2018",
     "parent": "block/custom_glass_pane_inventory_template",
     "textures": {
-        "edge": "block/brown_stained_glass_pane_top",
-        "pane": "block/brown_stained_glass"
+        "edge": "block/purpur_pillar_top",
+        "pane": "block/purpur_pillar_top"
     }
 }

@@ -1750,6 +1750,12 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"rotation": [180, 2.5, 180],
+			"translation": [0, 0, -1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
