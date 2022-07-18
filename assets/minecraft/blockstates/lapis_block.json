@@ -1,0 +1,13 @@
+{
+    "__comment": "LBDSPack - Tim",
+    "variants": {
+        "": [
+            { "model": "block/lapis_block", "weight": 30 },
+            { "model": "block/lapis_block2", "weight": 20 },
+            { "model": "block/lapis_block3", "weight": 10 },
+            { "model": "block/lapis_block4", "weight": 20 },
+            { "model": "block/lapis_block5", "weight": 5 },
+            { "model": "block/lapis_block6", "weight": 5 }
+        ]
+    }
+}

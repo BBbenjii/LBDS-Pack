@@ -2,6 +2,6 @@
     "__comment": "JimStoneCraft - 2018",
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/lapis_block"
+        "all": "block/lapis_block4"
     }
 }
