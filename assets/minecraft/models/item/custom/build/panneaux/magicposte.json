@@ -1,10 +1,10 @@
 {
 	"credit": "©LBDS /   Made in France by TheFireSkorpion",
 	"textures": {
-		"0": "kisspng-wrought-iron-try-square-shelf-ikea-5b0856b3576eb6.4272517515272731393581",
+		"0": "block/custom/kisspng-wrought-iron-try-square-shelf-ikea-5b0856b3576eb6.4272517515272731393581",
 		"1": "block/anvil_front",
-		"2": "Post_office_sign",
-		"particle": "kisspng-wrought-iron-try-square-shelf-ikea-5b0856b3576eb6.4272517515272731393581"
+		"2": "block/custom/Post_office_sign",
+		"particle": "block/custom/kisspng-wrought-iron-try-square-shelf-ikea-5b0856b3576eb6.4272517515272731393581"
 	},
 	"elements": [
 		{
