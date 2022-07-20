@@ -2,7 +2,7 @@
 	"credit": "©LBDS /   Made in France by TheFireSkorpion",
 	"textures": {
 		"0": "block/custom/The_Hogs_Head1",
-		"1": "block/gargouille_cochon",
+		"1": "block/custom/gargouille_cochon",
 		"particle": "block/custom/The_Hogs_Head1"
 	},
 	"elements": [
