@@ -1,9 +1,9 @@
 {
 	"credit": "©LBDS /   Made in France by TheFireSkorpion",
 	"textures": {
-		"0": "tumblr_nkw66dw27B1tv0dhdo1_r2_250",
+		"0": "block/custom/Zonko's",
 		"1": "block/custom/planks_antique",
-		"particle": "tumblr_nkw66dw27B1tv0dhdo1_r2_250"
+		"particle": "block/custom/Zonko's"
 	},
 	"elements": [
 		{
