@@ -2,7 +2,7 @@
 	"credit": "©LBDS /   Made in France by TheFireSkorpion",
 	"textures": {
 		"0": "block/warped_trapdoor_edge",
-		"1": "27718e1f502c3351c08bff6972158469",
+		"1": "block/custom/candyshop",
 		"particle": "block/warped_trapdoor_edge"
 	},
 	"elements": [
@@ -72,7 +72,7 @@
 			"from": [-16, 3.4, 0.525],
 			"to": [32, 12.85, 0.575],
 			"faces": {
-				"north": {"uv": [7.55425, 3.8726, 14.78006, 9.72237], "texture": "#1"},
+				"north": {"uv": [0.30425, 0.7476, 15.75, 4.47237], "texture": "#1"},
 				"east": {"uv": [0, 0, 0.05, 16], "texture": "#0"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 0, 0.05, 16], "texture": "#0"},
