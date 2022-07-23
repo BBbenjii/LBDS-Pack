@@ -4,8 +4,9 @@
       "layer0": "minecraft:item/clay_ball"
     },
     "overrides": [
-	  { "predicate": {"custom_model_data": 1}, "model": "item/custom/gallion"},
-      { "predicate": {"custom_model_data": 2}, "model": "item/custom/noise"},
-	  { "predicate": {"custom_model_data": 17}, "model": "item/custom/mornille"}
+	  { "predicate": {"custom_model_data": 1}, "model": "item/custom/fonctionnels/economies/gallion"},
+      { "predicate": {"custom_model_data": 2}, "model": "item/custom/fonctionnels/economies/noise"},
+	{ "predicate": {"custom_model_data": 5}, "model": "item/custom/fonctionnels/economies/bourses"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/custom/fonctionnels/economies/mornille"}
 	]
 }
