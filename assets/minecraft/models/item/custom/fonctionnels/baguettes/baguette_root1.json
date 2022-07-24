@@ -1,12 +1,12 @@
 {
-	"credit": "©Le Banquet du Sorcier  /   Made in France by TheFireSkorpion",
+	"credit": "©LBDS /   Made in France by TheFireSkorpion",
 	"textures": {
 		"0": "block/mushroom_block_inside",
 		"1": "block/mushroom_stem",
 		"2": "block/brown_concrete_powder",
 		"3": "block/honey_block_bottom",
 		"4": "block/lime_stained_glass",
-		"5": "block/spore_blossom",
+		"5": "block/custom/flowerwand2",
 		"6": "block/big_dripleaf_tip",
 		"7": "block/big_dripleaf_top",
 		"particle": "block/mushroom_block_inside"
